@@ -1,2 +1,2 @@
 # DSA-Problem-Solving-Preparation
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Backup of all the leetcode questions which I practise and solved.
