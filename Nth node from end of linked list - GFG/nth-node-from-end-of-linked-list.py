@@ -15,6 +15,7 @@
 	}
 '''
 #Function to find the data of nth node from the end of a linked list
+"""
 def getNthFromLast(head,n):
     length = 0
     tmp = head
@@ -33,7 +34,21 @@ def getNthFromLast(head,n):
                 return -1
             tmp = tmp.next
         return tmp.data
+"""
+
+def getNthFromLast(head,n):
+    start = Node(0)
+    slow = fast = start
+    slow.next = head
+    for i in range(n):
+        fast = fast.next
+        if fast is None:
+            return -1
         
+    while fast is not None:
+        slow = slow.next
+        fast = fast.next
+    return slow.data
         
         
 
