@@ -10,15 +10,31 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-        ListNode nex;
-        while (curr != null) {
-            nex = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nex;
+       // T.C: O(N)
+       // S.C: O(1)
+       ListNode prev = null;
+        ListNode current = head;
+        ListNode later;
+        while (current != null) {
+            later = current.next;
+            current.next = prev;
+            prev = current;
+            current = later;
         }
         return prev;
     }
+    public ListNode reverseListReverse(ListNode head) {
+        // T.C: O(N)
+        // S.C: O(N)
+        // base case
+        if(head == null || head.next == null) return head;
+        
+        ListNode newHead = reverseList(head.next);
+        
+        head.next.next = head;
+        head.next = null;
+
+        return newHead;
+    }
+    
 }
