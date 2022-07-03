@@ -26,7 +26,30 @@ class Solution {
     
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> answer = new LinkedList<>();
-        postorder(root, answer);
+        // Recursive
+        // postorder(root, answer);
+        // return answer;
+        
+        // Iterative
+        if (root == null) {
+            return answer;
+        }
+        Stack<TreeNode> st1 = new Stack();
+        Stack<TreeNode> st2 = new Stack();
+        st1.push(root);
+        while(!st1.isEmpty()) {
+            TreeNode temp = st1.pop();
+            st2.push(temp);
+            if (temp.left != null) {
+                st1.push(temp.left);
+            }
+            if (temp.right != null) {
+                st1.push(temp.right);
+            }
+        }
+        while(!st2.isEmpty()) {
+            answer.add(st2.pop().val);
+        }
         return answer;
     }
 }
