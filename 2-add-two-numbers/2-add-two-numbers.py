@@ -11,7 +11,7 @@ class Solution(object):
         temp2 = l2
         carry = 0
         tail = ans
-        while temp1 != None or temp2 != None:
+        while temp1 != None or temp2 != None or carry == 1:
             sum = carry
             if temp1 != None:
                 sum += temp1.val
@@ -28,7 +28,4 @@ class Solution(object):
             if temp2 != None:
                 temp2 = temp2.next
         
-        if carry == 1:
-            tail.next = ListNode(carry)
-            tail = tail.next
         return ans.next
