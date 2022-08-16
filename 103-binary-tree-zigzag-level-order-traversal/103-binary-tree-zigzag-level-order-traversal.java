@@ -24,13 +24,13 @@ class Solution {
         boolean flag = true;
         while (!q.isEmpty()){
             int num = q.size();
-            List<Integer> level = new LinkedList<>();
+            LinkedList<Integer> level = new LinkedList<>();
             for (int i = 0; i < num; i++) {
                 TreeNode temp = q.poll();
                 if (flag) {
                     level.add(temp.val);
                 } else {
-                    level.add(0, temp.val);
+                    level.addFirst(temp.val);
                 }
                 if (temp.left != null) {
                     q.offer(temp.left);
