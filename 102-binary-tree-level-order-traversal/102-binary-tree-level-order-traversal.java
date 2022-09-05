@@ -15,23 +15,23 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> answer = new LinkedList<List<Integer>>();
+        List<List<Integer>> answer = new LinkedList<>();
         if (root == null) {
             return answer;
         }
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        while (!queue.isEmpty()) {
-            int levelNum = queue.size();
+        Queue<TreeNode> nodes = new LinkedList<>();
+        nodes.offer(root);
+        while (!nodes.isEmpty()) {
+            int levelSize = nodes.size();
             List<Integer> subList = new LinkedList<>();
-            for (int i = 0; i < levelNum; ++i) {
-                TreeNode temp = queue.poll();
+            for (int i = 0; i < levelSize; ++i) {
+                TreeNode temp = nodes.poll();
                 subList.add(temp.val);
                 if (temp.left != null) {
-                    queue.offer(temp.left);
+                    nodes.offer(temp.left);
                 }
                 if (temp.right != null) {
-                    queue.offer(temp.right);
+                    nodes.offer(temp.right);
                 }
             }
             answer.add(subList);
