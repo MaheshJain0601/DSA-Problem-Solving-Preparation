@@ -13,6 +13,5 @@ class Solution {
         }
         answer[0] = product;
         return answer;
-        
     }
 }
