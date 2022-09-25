@@ -1,3 +1,9 @@
+All Possible ways:
+We start at either step 0 or step 1. The target is to reach either last or second last step, whichever is minimum.
+​
+Step 1 - Identify a recurrence relation between subproblems. In this problem,
+Recurrence Relation:
+mincost(i) = cost[i]+min(mincost(i-1), mincost(i-2))
 Base cases:
 mincost(0) = cost[0]
 mincost(1) = cost[1]
