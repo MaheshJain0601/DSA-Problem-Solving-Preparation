@@ -52,6 +52,27 @@ class Solution {
         
     }
     
+    // 4. Iterative without extra space in DP
+    private int iterativeWithOutSpaceRob(int[] nums, int length) {
+        int prev;
+        int prev2 = 0;
+        
+        prev = nums[0];
+        
+        for (int index = 1; index < length; index++) {
+            int take = nums[index];
+            if (index > 1) {
+                take += prev2;
+            }
+            int notTake = 0 + prev;
+            int curr = Math.max(take, notTake);
+            
+            prev2 = prev;
+            prev = curr;
+        }
+        return prev;
+        
+    }
     public int rob(int[] nums) {
         // 1. Recursive Rob
         // return recursiveRob(nums, nums.length - 1);
@@ -62,6 +83,9 @@ class Solution {
         //return recursiveRobMemoize(nums, nums.length - 1, dp);
         
         // 3. Iterative Tabulation in DP
-        return iterativeTabRob(nums, nums.length);
+        //return iterativeTabRob(nums, nums.length);
+        
+        // 4. Iterative without extra space in DP
+        return iterativeWithOutSpaceRob(nums, nums.length);
     }
 }
