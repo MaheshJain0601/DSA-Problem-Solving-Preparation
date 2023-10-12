@@ -14,8 +14,7 @@
  * }
  */
 class Solution {
-    // Post order process
-    public void mirrorTree(TreeNode root) {
+    private void mirrorTree(TreeNode root) {
         if (root == null) {
             return;
         }
@@ -23,15 +22,14 @@ class Solution {
         mirrorTree(root.left);
         mirrorTree(root.right);
         
-        // Swap leftTree and rightTree reference
-        TreeNode temp = root.right;
-        root.right = root.left;
-        root.left = temp;
+        TreeNode node = root.left;
+        root.left = root.right;
+        
+        root.right = node;
         
     }
     public TreeNode invertTree(TreeNode root) {
         mirrorTree(root);
-        
         return root;
     }
 }
