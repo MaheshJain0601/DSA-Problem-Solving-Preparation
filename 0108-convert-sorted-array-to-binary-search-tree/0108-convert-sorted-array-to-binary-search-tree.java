@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    private TreeNode convertToBST(int[] nums, int low, int high) {
-        if (low > high) {
+    private TreeNode generateArrayToBST(int[] nums, int start, int end) {
+        if (start > end) {
             return null;
         }
         
-        int mid = ((high - low) / 2) + low;
+        int mid = start + (end - start)/2;
+        
         TreeNode node = new TreeNode(nums[mid]);
-        node.left = convertToBST(nums, low, mid - 1);
-        node.right = convertToBST(nums, mid + 1, high);
+        
+        node.left = generateArrayToBST(nums, start, mid - 1);
+        node.right = generateArrayToBST(nums, mid + 1, end);
         
         return node;
     }
     public TreeNode sortedArrayToBST(int[] nums) {
-        if (nums.length <= 0) {
-            return null;
-        }
-        TreeNode root = convertToBST(nums, 0, nums.length - 1);
-        return root;
+        return generateArrayToBST(nums, 0, nums.length - 1);
     }
 }
