@@ -16,7 +16,9 @@ class Solution {
                     long leftPossibleWays = map.get(leftChild);
                     long rightPossibleWays = map.get(arr[i]/leftChild);
                     
-                    map.put(root, map.get(root) + (leftPossibleWays * rightPossibleWays));
+                    long currentRootPossibleWays = (long)((map.get(root) + (leftPossibleWays * rightPossibleWays)) % MOD);
+                    
+                    map.put(root, currentRootPossibleWays);
                 }   
             }
         }
