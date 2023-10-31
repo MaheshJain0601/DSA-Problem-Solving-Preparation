@@ -1,6 +1,7 @@
 class Solution {
     public int partitionString(String s) {
-        Map<Character, Integer> lastSeenIndex = new HashMap<>();
+        int[] lastSeenIndex = new int[26];
+        Arrays.fill(lastSeenIndex, -1);
         
         int minPossibleUniqueSubstrCount = 0;
         int currentStart = 0;
@@ -8,11 +9,13 @@ class Solution {
         for (index = 0; index < s.length(); ++index) {
             char ch = s.charAt(index);
             
-            if (lastSeenIndex.get(ch) != null && currentStart <= lastSeenIndex.get(ch)) {
+            int charIndex = ch - 'a';
+            
+            if (lastSeenIndex[charIndex] >= currentStart) {
                 currentStart = index;
                 minPossibleUniqueSubstrCount++;
             }
-            lastSeenIndex.put(ch, index);
+            lastSeenIndex[charIndex] = index;
         }
         if (currentStart < index)
             minPossibleUniqueSubstrCount++;
