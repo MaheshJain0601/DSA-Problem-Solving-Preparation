@@ -3,7 +3,7 @@ class Solution {
         int reachableIndex = 0;
         
         for (int index = 0; index < nums.length; ++index) {
-            if (reachableIndex < index) {
+            if (index > reachableIndex) {
                 return false;
             }
             reachableIndex = Math.max(reachableIndex, index + nums[index]);
