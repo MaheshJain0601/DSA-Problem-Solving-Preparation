@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
+        
         int result = 0;
         int index = s.length() - 1;
         
@@ -8,8 +9,8 @@ class Solution {
         }
         
         while (index >= 0 && s.charAt(index) != ' ') {
-            result++;
             index--;
+            result++;
         }
         
         return result;
