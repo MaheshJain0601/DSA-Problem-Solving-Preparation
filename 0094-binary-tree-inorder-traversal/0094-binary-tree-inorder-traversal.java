@@ -29,19 +29,15 @@ class Solution {
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
         
-        while (true) {
-            if (curr != null) {
+        while (curr != null || !stack.isEmpty()) {
+            while (curr != null) {
                 stack.push(curr);
                 curr = curr.left;
-            } else {
-                if (stack.isEmpty()) {
-                    break;
-                }
-                
-                curr = stack.pop();
-                result.add(curr.val);
-                curr = curr.right;
             }
+            
+            curr = stack.pop();
+            result.add(curr.val);
+            curr = curr.right;
         }
         
     }
