@@ -1,5 +1,5 @@
 class Solution {
-    private int longIncreaseSubseqRecursive(int[] nums, int[][] dp, int currIndex, int prevIndex) {
+    private int longIncreaseSubseqRecursiveTopDown(int[] nums, int[][] dp, int currIndex, int prevIndex) {
         if (currIndex >= nums.length) {
             return 0;
         }
@@ -10,9 +10,9 @@ class Solution {
         
         int takeElement = 0;
         if (prevIndex == -1 || nums[currIndex] > nums[prevIndex]) {
-            takeElement = 1 + longIncreaseSubseqRecursive(nums, dp, currIndex + 1, currIndex);
+            takeElement = 1 + longIncreaseSubseqRecursiveTopDown(nums, dp, currIndex + 1, currIndex);
         }
-        int skipElement = 0 + longIncreaseSubseqRecursive(nums, dp, currIndex + 1, prevIndex);
+        int skipElement = 0 + longIncreaseSubseqRecursiveTopDown(nums, dp, currIndex + 1, prevIndex);
         
         if (prevIndex != -1) {
             dp[currIndex][prevIndex] = Math.max(takeElement, skipElement);    
@@ -27,6 +27,6 @@ class Solution {
             Arrays.fill(temp, -1);    
         }
 
-        return longIncreaseSubseqRecursive(nums, dp, 0, -1);
+        return longIncreaseSubseqRecursiveTopDown(nums, dp, 0, -1);
     }
 }
