@@ -21,12 +21,30 @@ class Solution {
         return Math.max(takeElement, skipElement);
     }
     
-    public int lengthOfLIS(int[] nums) {
+    public int lengthOfLISTopDown(int[] nums) {
         int[][] dp = new int[nums.length + 1][nums.length + 1];
         for (int[] temp: dp) {
             Arrays.fill(temp, -1);    
         }
 
         return longIncreaseSubseqRecursiveTopDown(nums, dp, 0, -1);
+    }
+    
+    public int lengthOfLIS(int[] nums) {
+        int[] dp = new int[nums.length];
+        
+        Arrays.fill(dp, 1);
+        int maxLIS = 1;
+        
+        for (int i = 1; i < nums.length; ++i) {
+            for (int j = 0; j < i; ++j) {
+                if (nums[j] < nums[i]) {
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
+                    maxLIS = Math.max(maxLIS, dp[i]);
+                }
+            }
+        }
+
+        return maxLIS;
     }
 }
