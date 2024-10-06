@@ -1,7 +1,31 @@
 class Solution {
     public boolean areSentencesSimilar(String sentence1, String sentence2) {
         if (sentence1.length() < sentence2.length()) {
-            // swap(sentence1, sentence2);
+            String temp = sentence1;
+            sentence1 = sentence2;
+            sentence2 = temp;
+        }
+        
+        Deque<String> sentenceWords1 = new LinkedList<>(Arrays.asList(sentence1.split(" ")));
+        Deque<String> sentenceWords2 = new LinkedList<>(Arrays.asList(sentence2.split(" ")));
+        
+        // Remove matching words from the front
+        while (!sentenceWords1.isEmpty() && !sentenceWords2.isEmpty() && sentenceWords1.peekFirst().equals(sentenceWords2.peekFirst())) {
+            sentenceWords1.pollFirst();
+            sentenceWords2.pollFirst();
+        }
+        
+        while (!sentenceWords1.isEmpty() && !sentenceWords2.isEmpty()  && sentenceWords1.peekLast().equals(sentenceWords2.peekLast())) {
+            sentenceWords1.pollLast();
+            sentenceWords2.pollLast();
+        }
+        
+        // If deq2 is empty, then s2 is a sub-sequence of s1
+        return sentenceWords2.isEmpty();
+    }
+    
+    public boolean areSentencesSimilarUsingIndexes(String sentence1, String sentence2) {
+        if (sentence1.length() < sentence2.length()) {
             String temp = sentence1;
             sentence1 = sentence2;
             sentence2 = temp;
