@@ -1,4 +1,38 @@
 class Solution {
+    /**
+        Approach-3: Optimal
+        Maintaining frequency of each element, adding count when frequency reaches 2
+        TC: O(N)
+        SC: O(N)
+     */
+    public int[] findThePrefixCommonArray(int[] A, int[] B) {
+
+        int N = A.length;
+
+        int[] result = new int[N];
+
+        Map<Integer, Integer> freq = new HashMap<>();
+
+        int count = 0;
+        int currentFreqElement = 0;
+
+        for (int index = 0; index < N; ++index) {
+            currentFreqElement = freq.getOrDefault(A[index], 0) + 1;
+            freq.put(A[index], currentFreqElement);
+            if (currentFreqElement == 2) {
+                count++;
+            }
+
+            currentFreqElement = freq.getOrDefault(B[index], 0) + 1;
+            freq.put(B[index], currentFreqElement);
+            if (currentFreqElement == 2) {
+                count++;
+            }
+            result[index] = count;
+        }
+        
+        return result;
+    }
 
     /**
         Approach-2: Better
@@ -6,7 +40,7 @@ class Solution {
         TC: O(N^2)
         SC: O(2*N)
      */
-    public int[] findThePrefixCommonArray(int[] A, int[] B) {
+    public int[] findThePrefixCommonArrayApproach2(int[] A, int[] B) {
 
         int N = A.length;
 
