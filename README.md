@@ -7,6 +7,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
