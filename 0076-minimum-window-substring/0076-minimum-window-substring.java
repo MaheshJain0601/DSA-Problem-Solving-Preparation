@@ -33,10 +33,8 @@ class Solution {
                 }
                 i++;
             }
-
             j++;
         }
-        System.out.println(windowStart+ " "+ minWindow);
 
         return minWindow == Integer.MAX_VALUE ? DEFAULT_ANSWER : s.substring(windowStart, windowStart + minWindow);
     }
