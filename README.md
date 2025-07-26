@@ -6,6 +6,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
@@ -56,6 +58,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
