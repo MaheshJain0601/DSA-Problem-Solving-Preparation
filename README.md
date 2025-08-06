@@ -105,6 +105,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -113,6 +114,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -121,11 +123,13 @@ Backup of all the leetcode questions which I practise and solved.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
