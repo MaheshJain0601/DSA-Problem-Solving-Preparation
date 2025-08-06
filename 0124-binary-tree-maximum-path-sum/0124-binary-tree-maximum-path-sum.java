@@ -14,24 +14,22 @@
  * }
  */
 class Solution {
-    private int findMaxPathSumRecursive(TreeNode root, int[] maxSum) {
+    private int maximumPathSum(TreeNode root, int[] maxSum) {
         if (root == null) {
             return 0;
         }
 
-        int leftSum = Math.max(0, findMaxPathSumRecursive(root.left, maxSum));
-        int rightSum = Math.max(0, findMaxPathSumRecursive(root.right, maxSum));
+        int leftMaxSum = Math.max(0, maximumPathSum(root.left, maxSum));
+        int rightMaxSum = Math.max(0, maximumPathSum(root.right, maxSum));
 
-        maxSum[0] = Math.max(maxSum[0], leftSum + rightSum + root.val);
+        maxSum[0] = Math.max(maxSum[0], root.val + leftMaxSum + rightMaxSum);
 
-
-        return root.val + Math.max(leftSum, rightSum);
+        return root.val + Math.max(leftMaxSum, rightMaxSum);
     }
     public int maxPathSum(TreeNode root) {
         int[] maxSum = new int[1];
-        
         maxSum[0] = Integer.MIN_VALUE;
-        findMaxPathSumRecursive(root, maxSum);
+        maximumPathSum(root, maxSum);
         return maxSum[0];
     }
 }
