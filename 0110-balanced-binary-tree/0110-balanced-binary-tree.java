@@ -14,27 +14,32 @@
  * }
  */
 class Solution {
-    public int isBalancedHelper(TreeNode root) {
+    public int isBalancedTreeHeight(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
-        int leftHeight = isBalancedHelper(root.left);
+        int leftHeight = isBalancedTreeHeight(root.left);
         if (leftHeight == -1) {
+            // Not a balanced binary tree, no need to check further
             return -1;
         }
-        int rightHeight = isBalancedHelper(root.right);
+        int rightHeight = isBalancedTreeHeight(root.right);
         if (rightHeight == -1) {
+            // Not a balanced binary tree, no need to check further
             return -1;
         }
 
         if (Math.abs(rightHeight - leftHeight) > 1) {
+            // Not a balanced binary tree, given height difference is > 1
             return -1;
         }
-
+        
+        // Compute height of the tree at currentNode
         return 1 + Math.max(leftHeight, rightHeight);
     }
+
     public boolean isBalanced(TreeNode root) {
-        return isBalancedHelper(root) != -1;
+        return isBalancedTreeHeight(root) != -1;
     }
 }
