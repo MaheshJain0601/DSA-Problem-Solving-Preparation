@@ -1,18 +1,22 @@
 class Solution {
-    public int searchInsert(int[] nums, int target) {
-        int low = 0, high = nums.length - 1, mid;
-        
-        int ans = nums.length;
-        
+    private int lowerBound(int[] nums, int N, int target) {
+        int low = 0, high = N - 1;
+        int mid;
+        int result = N;
         while (low <= high) {
             mid = low + (high - low)/2;
             if (nums[mid] >= target) {
-                ans = mid;
+                result = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-        return ans;
+        return result;
+    }
+    public int searchInsert(int[] nums, int target) {
+        int N = nums.length;
+        int indexPos = lowerBound(nums, N, target);
+        return indexPos;
     }
 }
