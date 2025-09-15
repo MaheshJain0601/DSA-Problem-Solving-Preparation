@@ -6,6 +6,13 @@ class Solution {
 
         while (low <= high) {
             mid = low + (high - low)/2;
+            // search space is already sorted
+            // then always arr[low] will be smaller
+            // in that search space
+            if (nums[low] <= nums[high]) {
+                minValue = Math.min(minValue, nums[low]);
+                break;
+            }
             // left space is sorted
             if (nums[low] <= nums[mid]) {
                 minValue = Math.min(minValue, nums[low]);
