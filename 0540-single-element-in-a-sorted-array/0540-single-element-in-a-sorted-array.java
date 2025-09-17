@@ -20,10 +20,12 @@ class Solution {
                 return nums[mid];
             }
             
-            // Elements are in (even, odd) or (odd, even) pattern for current element
+            // Inorder to element be on right side duplicate pattern will be (even, odd)
+            // Inorder to element be on left side duplicate pattern (odd, even)
+            // Current index is odd or even, then check with duplicate element with pattern (even, odd)
             // i.e., single element exists on right half 
             if ((mid%2 == 1 && nums[mid-1] == nums[mid]) || (mid%2 == 0 && nums[mid] == nums[mid+1])) {
-                low = mid + 1;
+                low = mid + 1; // Eliminating the left side
             } else {
                 high = mid - 1;
             }
