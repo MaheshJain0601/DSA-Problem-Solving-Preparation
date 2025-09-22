@@ -21,6 +21,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
@@ -49,6 +50,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
