@@ -77,6 +77,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -141,6 +143,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -150,6 +153,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -159,6 +163,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,5 +174,10 @@ Backup of all the leetcode questions which I practise and solved.
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
