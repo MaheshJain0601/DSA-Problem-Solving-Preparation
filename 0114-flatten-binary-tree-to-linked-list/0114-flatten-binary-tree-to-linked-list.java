@@ -15,7 +15,7 @@
  */
 class Solution {
     TreeNode previous = null;
-    public void flatten(TreeNode root) {
+    public void flattenRecursive(TreeNode root) {
         if (root == null) {
             return;
         }
@@ -27,5 +27,21 @@ class Solution {
         root.left = null;
 
         previous = root;
+    }
+
+    public void flatten(TreeNode root) {
+        TreeNode currNode = root;
+        while (currNode != null) {
+            if (currNode.left != null) {
+                TreeNode leftChild = currNode.left;
+                while (leftChild.right != null) {
+                    leftChild = leftChild.right;
+                }
+                leftChild.right = currNode.right;
+                currNode.right = currNode.left;
+                currNode.left = null;
+            } 
+            currNode = currNode.right;
+        }
     }
 }
