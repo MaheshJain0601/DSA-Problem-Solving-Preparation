@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    public boolean isValidBSTHelper(TreeNode root, TreeNode minNode, TreeNode maxNode) {
+    public boolean isValidBST(TreeNode root) {
+        return isValidBSTHelper(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    private boolean isValidBSTHelper(TreeNode root, long minValue, long maxValue) {
         if (root == null) {
             return true;
         }
-        
-        if ((minNode != null && root.val <= minNode.val) || (maxNode != null && root.val >= maxNode.val)) {
+
+        if (root.val >= maxValue || root.val <= minValue) {
             return false;
         }
-        
-        return (
-            isValidBSTHelper(root.left, minNode, root) 
-            &&
-            isValidBSTHelper(root.right, root, maxNode)
-        );
-    }
-    public boolean isValidBST(TreeNode root) {
-        return isValidBSTHelper(root, null, null);
+
+        return isValidBSTHelper(root.left, minValue, root.val)
+            && isValidBSTHelper(root.right, root.val, maxValue);
     }
 }
