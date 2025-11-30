@@ -14,35 +14,40 @@
  * }
  */
 class Solution {
-    int sumEvenValuedGrandParents = 0;
-    
-    public void dfsTraversal(TreeNode root) {
+    private void dfsTraversal(TreeNode root, int[] result) {
         if (root == null) {
             return;
         }
+
         if (root.val % 2 == 0) {
             if (root.left != null) {
                 if (root.left.left != null) {
-                    sumEvenValuedGrandParents += root.left.left.val;
-                }
+                    result[0] += root.left.left.val;
+                } 
                 if (root.left.right != null) {
-                    sumEvenValuedGrandParents += root.left.right.val;
+                    result[0] += root.left.right.val;
                 }
             }
+
             if (root.right != null) {
                 if (root.right.left != null) {
-                    sumEvenValuedGrandParents += root.right.left.val;
-                }
+                    result[0] += root.right.left.val;
+                } 
                 if (root.right.right != null) {
-                    sumEvenValuedGrandParents += root.right.right.val;
+                    result[0] += root.right.right.val;
                 }
             }
         }
-        dfsTraversal(root.left);
-        dfsTraversal(root.right);
+
+        dfsTraversal(root.left, result);
+        dfsTraversal(root.right, result);
     }
+
     public int sumEvenGrandparent(TreeNode root) {
-        dfsTraversal(root);
-        return sumEvenValuedGrandParents;
+        int[] result = new int[1];
+
+        result[0] = 0;
+        dfsTraversal(root, result);
+        return result[0];
     }
 }
