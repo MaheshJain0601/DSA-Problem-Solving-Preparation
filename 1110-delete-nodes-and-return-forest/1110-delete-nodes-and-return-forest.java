@@ -14,42 +14,40 @@
  * }
  */
 class Solution {
-    private TreeNode deleteNodesReturnForest(TreeNode root, Set<Integer> toDelete, List<TreeNode> result) {
-        if (root == null) {
-            return root;
-        }
+    private TreeNode deleteHelper(TreeNode root, Set<Integer> toBeDeleted, List<TreeNode> result) {
+        if (root == null)
+            return null;
         
-        root.left = deleteNodesReturnForest(root.left, toDelete, result);
-        root.right = deleteNodesReturnForest(root.right, toDelete, result);
-        
-        if (toDelete.contains(root.val)) {
-            if (root.left != null) {
+        root.left = deleteHelper(root.left, toBeDeleted, result);
+        root.right = deleteHelper(root.right, toBeDeleted, result);
+
+        if (toBeDeleted.contains(root.val)) {
+            if (root.left != null) 
                 result.add(root.left);
-            }
-            if (root.right != null) {
+            
+            if (root.right != null) 
                 result.add(root.right);
-            }
             
             return null;
-        } 
-        
-        return root;
+        } else {
+            return root;
+        }
     }
-    public List<TreeNode> delNodes(TreeNode root, int[] to_delete) { 
-        List<TreeNode> result = new ArrayList<>();
-        if (result == null) {
-            return result; 
+
+    public List<TreeNode> delNodes(TreeNode root, int[] toDelete) {
+        List<TreeNode> result = new LinkedList<>();
+        Set<Integer> set = new HashSet<>();
+        for (int deleteVal: toDelete) {
+            set.add(deleteVal);
         }
-        Set<Integer> hashSet = new HashSet<>();
-        for (int element: to_delete) {
-            hashSet.add(element);
-        }
-        
-        TreeNode node = deleteNodesReturnForest(root, hashSet, result);
-        if (node != null) {
+
+        deleteHelper(root, set, result);
+
+        if (!set.contains(root.val)) {
             result.add(root);
         }
-        
+
         return result;
+        
     }
 }
