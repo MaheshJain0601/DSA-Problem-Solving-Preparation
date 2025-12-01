@@ -23,6 +23,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
@@ -35,6 +36,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -158,6 +160,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -174,6 +177,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -208,6 +212,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
