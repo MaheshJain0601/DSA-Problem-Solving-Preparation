@@ -14,8 +14,31 @@
  * }
  */
 class Solution {
-    // DFS
+    // BFS
+    public boolean isCompleteTree(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        boolean pastNull = false;
+        TreeNode node;
+        
+        queue.offer(root);
 
+        while(!queue.isEmpty()) {
+            node = queue.poll();
+
+            if (node == null) {
+                pastNull = true;
+            } else {
+                if (pastNull) {
+                    return false;
+                }
+
+                queue.offer(node.left);
+                queue.offer(node.right);
+            }
+        }
+        return true;
+    }
+    // DFS
     private int countNodes(TreeNode root) {
         if (root == null) {
             return 0;
@@ -35,7 +58,7 @@ class Solution {
         return isCompleteTreeHelperDFS(root.left, 2*index + 1, totalNodes)
             && isCompleteTreeHelperDFS(root.right, 2*index + 2, totalNodes);
     }
-    public boolean isCompleteTree(TreeNode root) {
+    public boolean isCompleteTreeDFS(TreeNode root) {
         int totalNodes = countNodes(root);
 
         int index = 0;
