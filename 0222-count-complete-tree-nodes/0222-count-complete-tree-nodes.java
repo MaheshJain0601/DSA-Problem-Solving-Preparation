@@ -52,7 +52,6 @@ class Solution {
             return (int)Math.pow(2, leftHeight) - 1;
         }
         
-        return 1 + countNodes(root.left) + countNodes(root.right);
-        
+        return 1 + countNodes(root.left) + countNodes(root.right);       
     }
 }
