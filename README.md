@@ -165,6 +165,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
@@ -184,6 +185,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
@@ -223,6 +225,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
