@@ -14,27 +14,29 @@
  * }
  */
 class Solution {
-    public void sumRootToLeaf(TreeNode root, int[] result, int value) {
+    private boolean isLeafNode(TreeNode node) {
+        return node.left == null && node.right == null;
+    }
+    private void sumNumberHelper(TreeNode root, int currSum, int[] sumRootToLeaf) {
         if (root == null) {
             return;
         }
 
-        int sum = (value*10) + root.val;
-
-        if (root.left == null && root.right == null) {
-            result[0] += sum;
+        if (isLeafNode(root)) {
+            sumRootToLeaf[0] += (currSum*10 + root.val);
             return;
         }
 
-        sumRootToLeaf(root.left, result, sum);
-        sumRootToLeaf(root.right, result, sum);
+        currSum = currSum*10 + root.val;
+
+        sumNumberHelper(root.left, currSum, sumRootToLeaf);
+        sumNumberHelper(root.right, currSum, sumRootToLeaf);
     }
+
     public int sumNumbers(TreeNode root) {
-        int[] result = new int[1];
-
-        result[0] = 0;
-        sumRootToLeaf(root, result, 0);
-
-        return result[0];
+        int[] sumRootToLeaf = new int[1];
+        int currSum = 0;
+        sumNumberHelper(root, currSum, sumRootToLeaf);
+        return sumRootToLeaf[0];
     }
 }
