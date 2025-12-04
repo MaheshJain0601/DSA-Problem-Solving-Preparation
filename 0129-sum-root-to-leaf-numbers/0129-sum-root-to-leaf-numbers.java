@@ -17,26 +17,26 @@ class Solution {
     private boolean isLeafNode(TreeNode node) {
         return node.left == null && node.right == null;
     }
-    private void sumNumberHelper(TreeNode root, int currSum, int[] sumRootToLeaf) {
+    private void sumNumberHelper(TreeNode root, int[] sumRootToLeaf, int currSum) {
         if (root == null) {
-            return;
-        }
-
-        if (isLeafNode(root)) {
-            sumRootToLeaf[0] += (currSum*10 + root.val);
             return;
         }
 
         currSum = currSum*10 + root.val;
 
-        sumNumberHelper(root.left, currSum, sumRootToLeaf);
-        sumNumberHelper(root.right, currSum, sumRootToLeaf);
+        if (isLeafNode(root)) {
+            sumRootToLeaf[0] += currSum;
+            return;
+        }
+
+        sumNumberHelper(root.left, sumRootToLeaf, currSum);
+        sumNumberHelper(root.right, sumRootToLeaf, currSum);
     }
 
     public int sumNumbers(TreeNode root) {
         int[] sumRootToLeaf = new int[1];
         int currSum = 0;
-        sumNumberHelper(root, currSum, sumRootToLeaf);
+        sumNumberHelper(root, sumRootToLeaf, 0);
         return sumRootToLeaf[0];
     }
 }
