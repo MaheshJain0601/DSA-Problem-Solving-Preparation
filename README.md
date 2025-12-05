@@ -6,6 +6,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0035-search-insert-position) |
@@ -247,6 +248,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Linked List
@@ -257,4 +259,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
