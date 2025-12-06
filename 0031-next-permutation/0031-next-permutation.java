@@ -1,20 +1,25 @@
 class Solution {
     private void swap(int[] nums, int fromIndex, int toIndex) {
-        if (fromIndex < 0 || toIndex < 0) {
+        if (nums == null || nums.length <= 1 || fromIndex < 0 || fromIndex >= nums.length || toIndex < 0 || toIndex >= nums.length) {
             return;
         }
-        if (fromIndex >= nums.length || toIndex >= nums.length) {
-            return;
-        }
-        
-        int temp = nums[fromIndex];
+        int temp;
+        temp = nums[fromIndex];
         nums[fromIndex] = nums[toIndex];
         nums[toIndex] = temp;
     }
-    
-    private void reverse(int[] nums, int start, int end) {
-        while (start <= end) {
-            swap(nums, start++, end--);
+
+     private void reverse(int[] nums, int startIndex, int endIndex) {
+        if (nums == null || nums.length <= 1 || startIndex >= endIndex) {
+            return;
+        }
+        
+        int temp;
+        int i = startIndex, j = endIndex;
+        while (i < j) {
+            swap(nums, i, j);
+            i++;
+            j--;
         }
     }
     
@@ -22,19 +27,28 @@ class Solution {
         if (nums == null || nums.length <= 1) {
             return;
         }
-        
-        int firstIndex = nums.length - 2;
-        while (firstIndex >= 0 && nums[firstIndex] >= nums[firstIndex + 1]) {
-            firstIndex--;
-        }
-        
-        if (firstIndex >= 0) {
-            int secondIndex = nums.length - 1;
-            while (nums[secondIndex] <= nums[firstIndex]) {
-                secondIndex--;
+
+        int N = nums.length;
+        int breakPointIndex = -1;
+        for (int index = N - 2; index >= 0; index--) {
+            if (nums[index] < nums[index + 1]) {
+                breakPointIndex = index;
+                break;
             }
-            swap(nums, firstIndex, secondIndex);
         }
-        reverse(nums, firstIndex + 1, nums.length - 1);
+        // nums provided is last permutation
+        if (breakPointIndex == -1) {
+            reverse(nums, 0, N - 1);
+            return;
+        }
+
+        for (int index = N - 1; index > breakPointIndex; --index) {
+            if (nums[index] > nums[breakPointIndex]) {
+                swap(nums, index, breakPointIndex);
+                break;
+            }
+        }
+
+        reverse(nums, breakPointIndex + 1, N - 1);
     }
 }
