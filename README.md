@@ -22,6 +22,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
@@ -123,6 +124,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -283,5 +285,6 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
