@@ -13,6 +13,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0033-search-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -271,4 +273,8 @@ Backup of all the leetcode questions which I practise and solved.
 | [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
