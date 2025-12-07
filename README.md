@@ -15,6 +15,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0035-search-insert-position](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -263,6 +264,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
@@ -281,6 +283,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0015-3sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
