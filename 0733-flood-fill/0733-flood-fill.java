@@ -9,7 +9,7 @@ class Solution {
         return newImage;
     }
     // BFS
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+    public int[][] floodFillBFS(int[][] image, int sr, int sc, int color) {
         int V = image.length;
         int E = image[0].length;
 
@@ -41,41 +41,31 @@ class Solution {
         return newImage;
     }
 
-    private void dfs(int[][] image, int[][] newImage, int row, int col, int initialColor, int newColor) {
+    // DFS
+    private void dfs(int[][] image, int[][] newImage, int V, int E, int row, int col, int initialColor, int newColor) {
+        if (row < 0 || col < 0 || row >= V || col >= E || newImage[row][col] == newColor || image[row][col] != initialColor) {
+            return;
+        }
 
+        int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
+        newImage[row][col] = newColor;
+
+        for (int[] direction: directions) {
+            int nRow = row + direction[0];
+            int nCol = col + direction[1];
+
+            dfs(image, newImage, V, E, nRow, nCol, initialColor, newColor);
+        }
     }
 
-    // DFS
-    public int[][] floodFillDFS(int[][] image, int sr, int sc, int color) {
+    
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int V = image.length;
         int E = image[0].length;
 
         int[][] newImage = copyImage(image, V, E);
 
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{sr, sc});
-
-        boolean[][] visited = new boolean[V][E];
-
-        int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
-
-        int oldImageCell = image[sr][sc];
-
-        while(!queue.isEmpty()) {
-            int[] node = queue.poll();
-            
-            for (int[] direction: directions) {
-                int nRow = node[0] + direction[0];
-                int nCol = node[1] + direction[1];
-                if (nRow < 0 || nRow >= V || nCol < 0 || nCol >= E || visited[nRow][nCol] || image[nRow][nCol] != oldImageCell) {
-                    continue;
-                }
-
-                visited[nRow][nCol] = true;
-                newImage[nRow][nCol] = color;
-                queue.offer(new int[]{nRow, nCol});
-            }
-        }
+        dfs(image, newImage, V, E, sr, sc, image[sr][sc], color);
 
         return newImage;
     }
