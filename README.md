@@ -199,6 +199,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -215,6 +216,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -290,4 +292,12 @@ Backup of all the leetcode questions which I practise and solved.
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
