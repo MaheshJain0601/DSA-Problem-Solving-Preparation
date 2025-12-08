@@ -20,6 +20,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
@@ -196,6 +197,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0543-diameter-of-binary-tree) |
@@ -215,6 +217,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
@@ -290,11 +293,13 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
