@@ -34,6 +34,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
@@ -212,6 +213,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -234,6 +236,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -310,6 +313,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
 ## Union Find
 |  |
@@ -317,6 +321,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
