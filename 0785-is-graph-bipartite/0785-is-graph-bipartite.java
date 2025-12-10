@@ -1,4 +1,5 @@
 class Solution {
+    // BFS
     private boolean bfs(int[][] graph, int[] colors, int src) {
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(src);
@@ -18,7 +19,7 @@ class Solution {
         }
         return true;
     }
-    public boolean isBipartite(int[][] graph) {
+    public boolean isBipartiteBFS(int[][] graph) {
         int V = graph.length;
         int E = graph[0].length;
 
@@ -33,6 +34,38 @@ class Solution {
             }
         }
         return true;
+    }
 
+    // DFS
+    public boolean isBipartite(int[][] graph) {
+        int V = graph.length;
+        int E = graph[0].length;
+
+        int[] colors = new int[V];
+        Arrays.fill(colors, -1);
+        
+        for (int i = 0; i < V; ++i) {
+            if (colors[i] == -1) {
+                if (!dfs(graph, colors, i, 0)) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    private boolean dfs(int[][] graph, int[] colors, int src, int color) {
+        colors[src] = color;
+
+        for (int adjNode: graph[src]) {
+            if (colors[adjNode] == -1) {
+                if(!dfs(graph, colors, adjNode, 1 - color)) {
+                    return false;
+                }
+            } else if (colors[adjNode] == color) {
+                return false;
+            }
+        }
+        return true;
     }
 }
