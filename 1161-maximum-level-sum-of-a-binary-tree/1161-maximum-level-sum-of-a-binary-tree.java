@@ -15,7 +15,7 @@
  */
 class Solution {
     // BFS
-    public int maxLevelSum(TreeNode root) {
+    public int maxLevelSumBFS(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
@@ -43,5 +43,29 @@ class Solution {
             currentLevel++;
         }
         return levelNum;
+    }
+
+    // DFS
+    private void maxLevelSumHelper(TreeNode root, int currentLevel, Map<Integer, Integer> levelSum) {
+        if (root == null) return;
+        
+        levelSum.put(currentLevel, levelSum.getOrDefault(currentLevel, 0) + root.val);
+
+        maxLevelSumHelper(root.left, currentLevel + 1, levelSum);
+        maxLevelSumHelper(root.right, currentLevel + 1, levelSum);
+    }
+    public int maxLevelSum(TreeNode root) {
+        Map<Integer, Integer> levelSum = new TreeMap<>();
+        maxLevelSumHelper(root, 1, levelSum);
+
+        int maxLevelSum = Integer.MIN_VALUE;
+        int maxSumLevel = 0;
+        for (Map.Entry<Integer, Integer> entry: levelSum.entrySet()) {
+            if (entry.getValue() > maxLevelSum) {
+                maxLevelSum = entry.getValue();
+                maxSumLevel = entry.getKey();
+            }
+        }
+        return maxSumLevel;
     }
 }
