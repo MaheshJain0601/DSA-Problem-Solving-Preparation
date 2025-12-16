@@ -40,11 +40,28 @@ class Solution {
             longestZigZagHelper(root.left, 1, maxPath, goLeft);
         }
     }
-    public int longestZigZag(TreeNode root) {
+    public int longestZigZagApproach1(TreeNode root) {
         int[] maxPath = new int[1];
         maxPath[0] = 0;
         longestZigZagHelper(root, 0, maxPath, true);
         longestZigZagHelper(root, 0, maxPath, false);
+        return maxPath[0];
+    }
+
+    // Approach-2
+    private void helperLongestZigZag(TreeNode root, int leftPath, int rightPath, int[] maxPath) {
+        if (root == null) return;
+
+        maxPath[0] = Math.max(maxPath[0], leftPath);
+        maxPath[0] = Math.max(maxPath[0], rightPath);
+
+        helperLongestZigZag(root.left, rightPath + 1, 0, maxPath);
+        helperLongestZigZag(root.right, 0, leftPath + 1, maxPath);
+    }
+    public int longestZigZag(TreeNode root) {
+        int[] maxPath = new int[1];
+        maxPath[0] = 0;
+        helperLongestZigZag(root, 0, 0, maxPath);
         return maxPath[0];
     }
 }
