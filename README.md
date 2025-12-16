@@ -129,6 +129,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +280,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
