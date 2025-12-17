@@ -201,6 +201,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
