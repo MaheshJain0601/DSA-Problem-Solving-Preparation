@@ -198,6 +198,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -231,6 +232,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -256,6 +258,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -346,9 +350,11 @@ Backup of all the leetcode questions which I practise and solved.
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
+| [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
