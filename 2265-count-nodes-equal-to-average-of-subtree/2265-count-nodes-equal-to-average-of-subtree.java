@@ -13,14 +13,13 @@
  *     }
  * }
  */
-
 class Solution {
-    class Pair {
-        int sum;
+    static class Pair {
+        int sumOfNodes;
         int numOfNodes;
         
-        public Pair(int sum, int numOfNodes) {
-            this.sum = sum;
+        public Pair(int sumOfNodes, int numOfNodes) {
+            this.sumOfNodes = sumOfNodes;
             this.numOfNodes = numOfNodes;   
         }
     }
@@ -35,12 +34,12 @@ class Solution {
         
         Pair left = countAvergaeOfSubtreeHelper(root.left, result);
         if (left != null) {
-            totalSum += left.sum;
+            totalSum += left.sumOfNodes;
             totalNodes += left.numOfNodes;
         }
         Pair right = countAvergaeOfSubtreeHelper(root.right, result);
         if (right != null) {
-            totalSum += right.sum;
+            totalSum += right.sumOfNodes;
             totalNodes += right.numOfNodes;
         }
         totalSum += root.val;
