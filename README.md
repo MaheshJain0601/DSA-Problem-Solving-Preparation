@@ -178,6 +178,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -215,6 +216,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -282,6 +284,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -372,4 +375,8 @@ Backup of all the leetcode questions which I practise and solved.
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
