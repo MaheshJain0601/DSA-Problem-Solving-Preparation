@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Approach-1: Extra space using array
     private boolean isLeafNode(TreeNode node) {
         if (node == null) return false;
 
@@ -45,13 +46,36 @@ class Solution {
 
         nodeFrequency[root.val] -= 1;
     }
-    public int pseudoPalindromicPaths (TreeNode root) {
+    public int pseudoPalindromicPathsArray (TreeNode root) {
         int[] result = new int[1];
         result[0] = 0;
 
         int[] nodeFrequency = new int[10];
 
         pseudoPalindromicPathsHelper(root, nodeFrequency, result);
+
+        return result[0];
+    }
+
+    // Approach-2: Extra space using just an integer: bit operations
+
+    private void pseudoPalindromicPathsHelperBitWise(TreeNode root, int value, int[] result) {
+        if (root == null) return;
+
+        value = value ^ (1 << root.val);
+        if (isLeafNode(root)) {
+            result[0] += (value & (value - 1)) == 0 ? 1 : 0;
+        }
+
+        pseudoPalindromicPathsHelperBitWise(root.left, value, result);
+        pseudoPalindromicPathsHelperBitWise(root.right, value, result);
+    }
+
+    public int pseudoPalindromicPaths (TreeNode root) {
+        int[] result = new int[1];
+        result[0] = 0;
+
+        pseudoPalindromicPathsHelperBitWise(root, 0, result);
 
         return result[0];
     }
