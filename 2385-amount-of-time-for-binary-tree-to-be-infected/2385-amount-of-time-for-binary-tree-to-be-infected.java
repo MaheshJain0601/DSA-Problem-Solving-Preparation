@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Tree Approach
     private void getChildToParentMap(TreeNode root, Map<TreeNode, TreeNode> childToParentMp) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
@@ -83,8 +84,8 @@ class Solution {
         }
         return minTime;
     }
-    
-    public int amountOfTime(TreeNode root, int start) {
+
+    public int amountOfTimeTree(TreeNode root, int start) {
         if (root == null) return 0;
         
         Map<TreeNode, TreeNode> childToParentMp = new HashMap<>();
@@ -93,5 +94,68 @@ class Solution {
         TreeNode startNode = getStartNode(root, start);
 
         return getMinimumAmountOfTime(root, childToParentMp, startNode);
+    }
+
+    // Graph Approach
+
+    private void makeGraph(TreeNode root, int parent, Map<Integer, List<Integer>> adjList) {
+        if (root == null) return;
+
+        if (parent != -1)
+            adjList.computeIfAbsent(root.val, p -> new ArrayList<>()).add(parent);
+        
+        if (root.left != null) 
+            adjList.computeIfAbsent(root.val, p -> new ArrayList<>()).add(root.left.val);
+        
+        if (root.right != null) 
+            adjList.computeIfAbsent(root.val, p -> new ArrayList<>()).add(root.right.val);
+
+        makeGraph(root.left, root.val, adjList);
+        makeGraph(root.right, root.val, adjList);
+    }
+
+    private int getMinimumAmountOfTimeGraph(Map<Integer, List<Integer>> adjList, int start) {
+        
+        Queue<Integer> queue = new LinkedList<>();
+        Set<Integer> visited = new HashSet<>();
+        
+        queue.offer(start);
+        visited.add(start);
+        int minTime = 0;
+
+        int levelSize;
+        int node;
+
+        while (!queue.isEmpty()) {
+            levelSize = queue.size();
+
+            while (levelSize > 0) {
+                node = queue.poll();
+                
+                if (!adjList.containsKey(node)) {
+                    levelSize--;
+                    continue;
+                }
+
+                for (Integer adjNode: adjList.get(node)) {
+                    if (!visited.contains(adjNode)) {
+                        queue.offer(adjNode);
+                        visited.add(adjNode);
+                    }
+                }
+                levelSize--;
+            }
+            minTime++;
+        }
+        return minTime - 1;
+    }
+    
+    public int amountOfTime(TreeNode root, int start) {
+        if (root == null) return 0;
+        Map<Integer, List<Integer>> adjList = new HashMap<>();
+
+        makeGraph(root, -1, adjList);
+
+        return getMinimumAmountOfTimeGraph(adjList, start);
     }
 }
