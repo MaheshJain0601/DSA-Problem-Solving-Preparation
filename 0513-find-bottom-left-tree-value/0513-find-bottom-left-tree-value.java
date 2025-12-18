@@ -22,6 +22,7 @@ class Solution {
             this.result = result;
         }
     }
+    // DFS Approach
     private void findBottomLeftValueHelper(TreeNode root, int currDepth, Pair pair) {
         if (root == null) return;
         
@@ -32,9 +33,30 @@ class Solution {
         findBottomLeftValueHelper(root.left, currDepth + 1, pair);
         findBottomLeftValueHelper(root.right, currDepth + 1, pair);
     }
-    public int findBottomLeftValue(TreeNode root) {
+    public int findBottomLeftValueDFS(TreeNode root) {
         Pair pair = new Pair(-1, 0);
         findBottomLeftValueHelper(root, 0, pair);
         return pair.result;
+    }
+
+    public int findBottomLeftValue(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        int levelSize, result = 0;
+        TreeNode node;
+        while (!queue.isEmpty()) {
+            levelSize = queue.size();
+            while (levelSize > 0) {
+                node = queue.poll();
+                result = node.val;
+
+                if (node.right != null) queue.offer(node.right);
+                if (node.left != null) queue.offer(node.left);
+
+                levelSize--;
+            }
+        }
+        return result;
     }
 }
