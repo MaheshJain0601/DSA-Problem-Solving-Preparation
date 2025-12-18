@@ -150,12 +150,41 @@ class Solution {
         return minTime - 1;
     }
     
-    public int amountOfTime(TreeNode root, int start) {
+    public int amountOfTimeGraph(TreeNode root, int start) {
         if (root == null) return 0;
         Map<Integer, List<Integer>> adjList = new HashMap<>();
 
         makeGraph(root, -1, adjList);
 
         return getMinimumAmountOfTimeGraph(adjList, start);
+    }
+
+    // One-pass solution: Very important
+    private int solve(TreeNode root, int[] result, int start) {
+        if (root == null) return 0;
+
+        int leftHeight = solve(root.left, result, start);
+        int rightHeight = solve(root.right, result, start);
+
+        if (root.val == start) {
+            result[0] = Math.max(leftHeight, rightHeight);
+            return -1;
+        } else if (leftHeight >= 0 && rightHeight >= 0) {
+            return 1 + Math.max(leftHeight, rightHeight);
+        } else {
+            int maxDepth = Math.abs(leftHeight) + Math.abs(rightHeight);
+            result[0] = Math.max(result[0], maxDepth);
+            return Math.min(leftHeight, rightHeight) - 1;
+        }
+    }
+    public int amountOfTime(TreeNode root, int start) {
+        if (root == null) return 0;
+        
+        int[] result = new int[1];
+        result[0] = Integer.MIN_VALUE;
+
+        solve(root, result, start);
+
+        return result[0];
     }
 }
