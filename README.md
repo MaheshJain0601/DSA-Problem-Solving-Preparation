@@ -109,6 +109,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -148,6 +149,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
