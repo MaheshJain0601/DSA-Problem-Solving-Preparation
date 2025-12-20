@@ -25,6 +25,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -112,6 +114,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
@@ -122,6 +125,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
