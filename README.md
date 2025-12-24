@@ -356,6 +356,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 ## Iterator
@@ -406,4 +407,12 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
