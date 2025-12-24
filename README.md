@@ -18,6 +18,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0162-find-peak-element) |
@@ -110,6 +111,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
@@ -124,6 +126,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -133,6 +136,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
@@ -367,6 +371,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
