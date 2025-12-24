@@ -13,12 +13,10 @@ class Solution {
             }
             st.push(ch);
         }
-        System.out.println(st + " " + k);
         while (k > 0) {
             st.pop();
             k--;
         }
-        System.out.println(st + " " + k);
 
         StringBuilder resultBuilder = new StringBuilder();
         while (!st.isEmpty()) {
