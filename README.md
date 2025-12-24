@@ -358,6 +358,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 ## Iterator
@@ -417,4 +418,5 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
