@@ -33,6 +33,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
@@ -120,6 +121,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
@@ -132,6 +134,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
