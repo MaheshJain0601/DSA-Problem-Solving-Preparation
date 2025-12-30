@@ -1,26 +1,20 @@
-import java.util.Stack;
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
-        int N = s.length();
-        if (N % 2 != 0) {
-            return false;
-        }
-        
-        for (int i = 0; i < N; i++) {
-            if (s.charAt(i) == '(') {
-                st.push(')');
-            }
-            else if (s.charAt(i) == '{') {
-                st.push('}');
-            }
-            else if(s.charAt(i) == '[') {
-                st.push(']');
-            }
-            else if (st.isEmpty() || st.pop() != s.charAt(i)) {
-                return false;                
+        Map<Character, Character> map = new HashMap<>();
+        map.put(')', '(');
+        map.put('}', '{');
+        map.put(']', '[');
+        for (char ch: s.toCharArray()) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);
+            } else {
+                if (st.empty() || !map.containsKey(ch) || map.get(ch) != st.peek()) {
+                    return false;
+                }
+                st.pop();
             }
         }
-        return st.isEmpty();
+        return st.empty();
     }
 }
