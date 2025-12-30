@@ -106,6 +106,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
@@ -115,6 +116,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
