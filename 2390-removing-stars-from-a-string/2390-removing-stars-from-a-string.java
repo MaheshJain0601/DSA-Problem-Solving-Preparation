@@ -1,5 +1,5 @@
 class Solution {
-    public String removeStars(String s) {
+    public String removeStarsStackApproach(String s) {
         StringBuilder sb = new StringBuilder();
         for (char ch: s.toCharArray()) {
             if (ch != '*') {
@@ -9,5 +9,19 @@ class Solution {
             }
         }
         return sb.toString();
+    }
+
+    public String removeStars(String s) {
+        char[] result = s.toCharArray();
+        int i = 0, j = 0;;
+        while (j < result.length) {
+            result[i] = result[j];
+            if (result[i] == '*') {
+                i -= 2;
+            }
+            i++;
+            j++;
+        }
+        return new String(result, 0, i);
     }
 }
