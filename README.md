@@ -120,6 +120,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -170,6 +171,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
@@ -181,6 +183,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
