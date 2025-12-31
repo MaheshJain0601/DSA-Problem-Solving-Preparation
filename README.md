@@ -115,6 +115,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -139,6 +140,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -177,6 +179,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0011-container-with-most-water](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
