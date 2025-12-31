@@ -51,9 +51,9 @@ class Solution {
     }
 
     // Approach-3 (Two-pass solution)
-    // TC: O(N)
+    // TC: O(2N)
     // SC: O(2N)
-    public int minimumDeletions(String s) {
+    public int minimumDeletionsApproach3(String s) {
         int N = s.length();
         int[] rightCountA = new int[N];
 
@@ -72,6 +72,34 @@ class Solution {
             if (s.charAt(index) == 'b') {
                 leftCountB++;
             }
+        }
+
+        return minDeletion;
+    }
+
+    // Approach-4 (Two-pass solution)
+    // TC: O(2N)
+    // SC: O(1)
+    public int minimumDeletions(String s) {
+        int N = s.length();
+
+        int countA = 0;
+        for (int index = N - 1; index >= 0; --index) {
+            if (s.charAt(index) == 'a') {
+                countA++;
+            }
+        }
+
+        int minDeletion = Integer.MAX_VALUE;
+        int leftCountB = 0;
+        for (int index = 0; index < N; ++index) {
+            if (s.charAt(index) == 'a') {
+                countA--;
+            }
+            minDeletion = Math.min(minDeletion, leftCountB + countA);
+            if (s.charAt(index) == 'b') {
+                leftCountB++;
+            } 
         }
 
         return minDeletion;
