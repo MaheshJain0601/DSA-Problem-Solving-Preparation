@@ -37,6 +37,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
@@ -144,6 +145,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
@@ -166,6 +168,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -420,6 +423,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
+| [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
