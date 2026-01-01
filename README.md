@@ -117,6 +117,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -143,6 +144,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
@@ -197,6 +199,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
