@@ -2,7 +2,7 @@ class Solution {
     // Approach-1: With space
     // TC: O(N)
     // SC: O(N)
-    public boolean canBeValid(String s, String locked) {
+    public boolean canBeValidApproach1(String s, String locked) {
         int N = s.length();
 
         if (N % 2 == 1) {
@@ -44,7 +44,7 @@ class Solution {
     // Approach-2: Without space
     // TC: O(2*N)
     // SC: O(1)
-    public boolean canBeValid1(String s, String locked) {
+    public boolean canBeValid(String s, String locked) {
         int N = s.length();
 
         if (N % 2 == 1) {
@@ -54,45 +54,34 @@ class Solution {
         int index = 0;
         char ch, lockedCh;
 
-        int openCount = 0, openClosedCount = 0;
+        int openCount = 0;
+        // Left to Right: to count open mismatch in opening brackets
         while (index < N) {
             ch = s.charAt(index);
             lockedCh = locked.charAt(index);
-            if (lockedCh == '0') {
-                openClosedCount++;
-            } else if (ch == '(') {
+            if (lockedCh == '0' || ch == '(') {
                 openCount++;
             } else {
-                if (openCount > 0) {
-                    openCount--;
-                } else if (openClosedCount > 0) {
-                    openClosedCount--;
-                } else {
-                    return false;
-                }
+                openCount--;
             }
+            
+            if (openCount < 0) return false;
             index++;
         }
 
-        int closedCount = 0;
-        openClosedCount = 0;
+        int closeCount = 0;
         index = N - 1;
+        // Right to Left: to count open mismatch in closing brackets
         while (index >= 0) {
             ch = s.charAt(index);
             lockedCh = locked.charAt(index);
-            if (lockedCh == '0') {
-                openClosedCount++;
-            } else if (ch == ')') {
-                closedCount++;
+            if (lockedCh == '0' || ch == ')') {
+                closeCount++;
             } else {
-                if (closedCount > 0) {
-                    closedCount--;
-                } else if (openClosedCount > 0) {
-                    openClosedCount--;
-                } else {
-                    return false;
-                }
+                closeCount--;
             }
+
+            if (closeCount < 0) return false;
             index--;
         }
 
