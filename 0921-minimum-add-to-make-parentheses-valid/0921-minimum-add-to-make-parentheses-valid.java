@@ -1,22 +1,23 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int openingBrackets = 0, closingBrackets = 0;
-        int N = s.length();
+        
+        int openParenCount = 0;
+		int closeParenCount = 0;
+        int length = s.length();
+        
+		// for (char ch: pattern.toCharArray()) {
+        for (int index = 0; index < length; ++index) {
+            char ch = s.charAt(index);
+			if (ch == '(') {
+				openParenCount++;
+			} else if (ch == ')' && openParenCount > 0) {
+				openParenCount--;
+			} else if (ch == ')') {
+				closeParenCount++;
+			}
+		}
 
-        int index = 0;
-        char ch;
-        while (index < N) {
-            ch = s.charAt(index);
-            if (ch == '(') {
-                openingBrackets++;
-            } else if (openingBrackets > 0) {
-                openingBrackets--;
-            } else {
-                closingBrackets++;
-            }
-            index++;
-        }
-        return openingBrackets + closingBrackets;
+		return openParenCount+closeParenCount;
         
     }
 }
