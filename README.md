@@ -124,6 +124,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -156,6 +157,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
@@ -204,6 +206,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
