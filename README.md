@@ -119,6 +119,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -149,6 +150,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -476,4 +478,5 @@ Backup of all the leetcode questions which I practise and solved.
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
+| [1106-parsing-a-boolean-expression](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
