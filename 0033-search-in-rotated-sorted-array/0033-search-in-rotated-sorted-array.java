@@ -9,14 +9,15 @@ class Solution {
             if (nums[mid] == target) {
                 return mid;
             }
-            // left sorted
-            if (nums[low] <= nums[mid]) {
+
+            // Identify which half is sorted
+            if (nums[low] <= nums[mid]) { // Left half is sorted
                 if (target >= nums[low] && target <= nums[mid]) {
                     high = mid - 1;
                 } else {
                     low = mid + 1;
                 }
-            } else { // right half is sorted
+            } else { // Right half is sorted
                 if (target >= nums[mid] && target <= nums[high]) {
                     low = mid + 1;
                 } else {
