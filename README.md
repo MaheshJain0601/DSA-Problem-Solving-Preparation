@@ -52,6 +52,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +211,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
