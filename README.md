@@ -51,6 +51,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
@@ -102,6 +103,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 ## Sliding Window
