@@ -42,6 +42,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -96,6 +97,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0852-peak-index-in-a-mountain-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
