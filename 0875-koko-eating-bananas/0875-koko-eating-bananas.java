@@ -11,6 +11,9 @@ class Solution {
 
         int maxBananaPerPile = Arrays.stream(piles).max().getAsInt();
 
+        // Optimization: If hours equals piles count, we must eat at the rate of the largest pile
+        if (h == piles.length) return maxBananaPerPile;
+
         int low = 0, high = maxBananaPerPile;
         int ratePerHour;
 
