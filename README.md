@@ -60,6 +60,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
@@ -116,6 +117,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -437,6 +439,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 ## Linked List
 |  |
@@ -461,6 +464,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
