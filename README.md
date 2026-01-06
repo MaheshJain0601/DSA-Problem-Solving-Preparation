@@ -36,6 +36,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -134,6 +136,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 ## String
