@@ -1,12 +1,12 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-        Map<Integer, Integer> remainderCount = new HashMap<>();
+        int remainderCount[] = new int[k];
 
         int totalSubarrays = 0;
         int currSum = 0, rem;
 
         // For the entire array to be considered
-        remainderCount.put(currSum%k, 1);
+        remainderCount[currSum%k] = 1;
 
         for (int index = 0; index < nums.length; ++index) {
             currSum += nums[index];
@@ -18,11 +18,9 @@ class Solution {
             if (rem < 0) {
                 rem += k;
             }
-            
-            if (remainderCount.containsKey(rem)) {
-                totalSubarrays += remainderCount.get(rem);
-            }
-            remainderCount.put(rem, remainderCount.getOrDefault(rem, 0) + 1);
+
+            totalSubarrays += remainderCount[rem];
+            remainderCount[rem] += 1;
         }
         return totalSubarrays;
     }
