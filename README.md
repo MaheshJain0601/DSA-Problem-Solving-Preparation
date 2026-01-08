@@ -61,6 +61,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -231,6 +232,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 ## Greedy
@@ -472,6 +474,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
