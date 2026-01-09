@@ -67,6 +67,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -451,6 +452,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
+| [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
