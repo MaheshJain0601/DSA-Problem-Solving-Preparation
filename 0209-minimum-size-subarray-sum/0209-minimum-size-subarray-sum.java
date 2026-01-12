@@ -3,20 +3,19 @@ class Solution {
         if (nums.length <= 0) {
             return 0;
         } 
-        int sum = 0;
         int i = 0, j = 0;
-        int minimumLength = Integer.MAX_VALUE;
-        while (j < nums.length) {
-            sum += nums[j];
-
-            while (i <= j && sum >= target) {
-                minimumLength = Math.min(minimumLength, j - i + 1);
-
-                sum -= nums[i];
+        int minLength = Integer.MAX_VALUE;
+        int currSum = 0;
+        while (i <= j && j < nums.length) {
+            currSum += nums[j];
+            while(currSum >= target) {
+                minLength = Math.min(minLength, j - i + 1);
+                currSum -= nums[i];
                 i++;
             }
             j++;
         }
-        return minimumLength == Integer.MAX_VALUE ? 0 : minimumLength;
+
+        return minLength == Integer.MAX_VALUE ? 0 : minLength;
     }
 }
