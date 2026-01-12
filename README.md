@@ -77,6 +77,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
@@ -132,6 +133,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -152,6 +154,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
