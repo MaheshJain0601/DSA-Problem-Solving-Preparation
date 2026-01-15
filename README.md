@@ -66,6 +66,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
@@ -139,6 +140,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Tree
 |  |
 | ------- |
