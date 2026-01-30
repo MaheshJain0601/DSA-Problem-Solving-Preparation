@@ -552,4 +552,12 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
