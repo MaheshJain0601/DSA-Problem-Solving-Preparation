@@ -8,65 +8,58 @@ class Solution {
         }
         return newImage;
     }
-    // BFS
+
+    public int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+
+    // BFS Approach
     public int[][] floodFillBFS(int[][] image, int sr, int sc, int color) {
         int V = image.length;
         int E = image[0].length;
-
         int[][] newImage = copyImage(image, V, E);
 
-        newImage[sr][sc] = color;
+        int intialColor = newImage[sr][sc];
         Queue<int[]> queue = new LinkedList<>();
         queue.offer(new int[]{sr, sc});
+        newImage[sr][sc] = color;
 
-        int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
+        while (!queue.isEmpty()) {
+            int[] cell = queue.poll();
 
-        int oldImageCell = image[sr][sc];
-
-        while(!queue.isEmpty()) {
-            int[] node = queue.poll();
-            
             for (int[] direction: directions) {
-                int nRow = node[0] + direction[0];
-                int nCol = node[1] + direction[1];
-                if (nRow < 0 || nRow >= V || nCol < 0 || nCol >= E || newImage[nRow][nCol] == color || image[nRow][nCol] != oldImageCell) {
+                int nRow = cell[0] + direction[0];
+                int nCol = cell[1] + direction[1];
+
+                if (nRow < 0 || nCol < 0 || nRow >= V || nCol >= E || newImage[nRow][nCol] == color || newImage[nRow][nCol] != intialColor) {
                     continue;
                 }
-
                 newImage[nRow][nCol] = color;
                 queue.offer(new int[]{nRow, nCol});
             }
         }
-
         return newImage;
     }
 
-    // DFS
-    private void dfs(int[][] image, int[][] newImage, int V, int E, int row, int col, int initialColor, int newColor) {
-        if (row < 0 || col < 0 || row >= V || col >= E || newImage[row][col] == newColor || image[row][col] != initialColor) {
+    private void dfs(int[][] newImage, int row, int col, int color, int intialColor) {
+        if (row < 0 || col < 0 || row >= newImage.length || col >= newImage[0].length || newImage[row][col] == color || newImage[row][col] != intialColor) {
             return;
         }
-
-        int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
-        newImage[row][col] = newColor;
-
+        newImage[row][col] = color;
         for (int[] direction: directions) {
             int nRow = row + direction[0];
             int nCol = col + direction[1];
 
-            dfs(image, newImage, V, E, nRow, nCol, initialColor, newColor);
+            dfs(newImage, nRow, nCol, color, intialColor);
         }
+
     }
 
-    
+    // DFS Approach
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int V = image.length;
         int E = image[0].length;
-
         int[][] newImage = copyImage(image, V, E);
 
-        dfs(image, newImage, V, E, sr, sc, image[sr][sc], color);
-
+        dfs(newImage, sr, sc, color, newImage[sr][sc]);
         return newImage;
     }
 }
