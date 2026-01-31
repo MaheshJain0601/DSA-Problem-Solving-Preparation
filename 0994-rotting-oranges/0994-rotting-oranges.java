@@ -1,22 +1,20 @@
 class Solution {
-    static class Triplet {
+    static class Pair {
         int row;
         int col;
-        int time;
-        public Triplet(int row, int col, int time) {
+        public Pair(int row, int col) {
             this.row = row;
             this.col = col;
-            this.time = time;
         }
     }
-
+    public int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
     public int orangesRotting(int[][] grid) {
         int V = grid.length;
         int E = grid[0].length;
 
         int totalFreshOranges = 0;
-        Queue<Triplet> queue = new LinkedList<>();
         boolean[][] visited = new boolean[V][E];
+        Queue<Pair> queue = new LinkedList<>();
 
         for (int i = 0; i < V; ++i) {
             for (int j = 0; j < E; ++j) {
@@ -25,39 +23,38 @@ class Solution {
                 } else if (grid[i][j] == 1) {
                     totalFreshOranges++;
                 } else if (grid[i][j] == 2) {
-                    queue.offer(new Triplet(i, j, 0));
+                    queue.offer(new Pair(i, j));
                     visited[i][j] = true;
                 }   
             }
         }
+        if (totalFreshOranges == 0) return 0;
 
-        int maxTime = 0;
-
-        int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-        int count = 0;
+        int minTime = 0;
+        int cnt = 0;
 
         while (!queue.isEmpty()) {
-            Triplet triplet = queue.poll();
-            int row = triplet.row;
-            int col = triplet.col;
-            int time = triplet.time;
-            maxTime = Math.max(maxTime, time);
+            int level = queue.size();
+            while (level > 0) {
+                Pair cell = queue.poll();
 
-            for (int[] direction: directions) {
-                int nRow = row + direction[0];
-                int nCol = col + direction[1];
-                if (nRow < 0 || nRow >= V || nCol < 0 || nCol >= E || grid[nRow][nCol] != 1 || visited[nRow][nCol]) {
-                    continue;
+                for (int[] direction: directions) {
+                    int nRow = cell.row + direction[0];
+                    int nCol = cell.col + direction[1];
+                    if (nRow < 0 || nCol < 0 || nRow >= V || nCol >= E || grid[nRow][nCol] != 1 || visited[nRow][nCol]) {
+                        continue;
+                    }
+                    queue.offer(new Pair(nRow, nCol));
+                    visited[nRow][nCol] = true;
+                    cnt++;
                 }
-                queue.offer(new Triplet(nRow, nCol, time + 1));
-                visited[nRow][nCol] = true;
-                count++;
+                level--;
             }
+            minTime++;
         }
-
-        if (count != totalFreshOranges)
+        if (cnt != totalFreshOranges) {
             return -1;
-
-        return maxTime;
+        }
+        return minTime - 1;
     }
 }
