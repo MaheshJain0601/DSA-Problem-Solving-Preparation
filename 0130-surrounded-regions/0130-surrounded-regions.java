@@ -7,8 +7,7 @@ class Solution {
             this.col = col;
         }
     }
-
-    int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+    public int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
     private void dfs(char[][] board, boolean[][] visited, Pair pair) {
         int row = pair.row;
@@ -59,5 +58,6 @@ class Solution {
                     board[i][j] = 'X';
             }
         }
+        
     }
 }
