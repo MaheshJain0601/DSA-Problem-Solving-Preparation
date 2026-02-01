@@ -1,6 +1,5 @@
 class Solution {
-    int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-
+    public int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
     public int numEnclaves(int[][] grid) {
         int V = grid.length;
         int E = grid[0].length;
@@ -21,7 +20,7 @@ class Solution {
             }
         }
 
-        // Left and right
+          // Left and right
         for (int i = 0; i < V; ++i) {
             if (!visited[i][0] && grid[i][0] == 1) {
                 visited[i][0] = true;
