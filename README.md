@@ -188,6 +188,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -268,6 +269,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0155-min-stack](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
@@ -281,6 +283,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
@@ -311,6 +314,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -351,6 +355,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -482,6 +487,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 ## Two Pointers
 |  |
 | ------- |
