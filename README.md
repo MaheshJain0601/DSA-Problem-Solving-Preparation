@@ -38,6 +38,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
@@ -254,6 +255,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
