@@ -46,6 +46,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -283,6 +284,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -459,6 +461,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
@@ -536,6 +539,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0069-sqrtx](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -548,6 +552,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
@@ -565,4 +570,12 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
