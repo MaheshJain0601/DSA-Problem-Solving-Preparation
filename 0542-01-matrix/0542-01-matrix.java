@@ -9,14 +9,15 @@ class Solution {
             this.distance = distance;
         }
     }
+    public int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
     public int[][] updateMatrix(int[][] mat) {
         int V = mat.length;
         int E = mat[0].length;
 
         int[][] cellDistance = new int[V][E];
         boolean[][] visited = new boolean[V][E];
-
         Queue<Triplet> queue = new LinkedList<>();
+        
         for (int i = 0; i < V; ++i) {
             for (int j = 0; j < E; ++j) {
                 if (mat[i][j] == 0) {
@@ -26,8 +27,6 @@ class Solution {
             }
         }
 
-        int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-        
         while (!queue.isEmpty()) {
             int row = queue.peek().row;
             int col = queue.peek().col;
@@ -35,7 +34,6 @@ class Solution {
             queue.poll();
 
             cellDistance[row][col] = distance;
-
             for (int[] direction: directions) {
                 int nRow = row + direction[0];
                 int nCol = col + direction[1];
