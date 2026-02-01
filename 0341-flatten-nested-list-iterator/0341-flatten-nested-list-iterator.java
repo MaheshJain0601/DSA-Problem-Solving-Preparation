@@ -15,10 +15,10 @@
  *     public List<NestedInteger> getList();
  * }
  */
-public class NestedIterator implements Iterator<Integer> {
+class NestedIteratorApproach1 implements Iterator<Integer> {
     Stack<NestedInteger> st;
 
-    public NestedIterator(List<NestedInteger> nestedList) {
+    public NestedIteratorApproach1(List<NestedInteger> nestedList) {
         st = new Stack<>();
         int index = nestedList.size() - 1;
         while (index >= 0) {
@@ -48,6 +48,37 @@ public class NestedIterator implements Iterator<Integer> {
             }
         }
         return false;
+    }
+}
+
+public class NestedIterator implements Iterator<Integer> {
+    Queue<Integer> queue;
+    Iterator<Integer> iterator;
+
+    private void recursiveFlatten(List<NestedInteger> nestedList) {
+        for (NestedInteger ni : nestedList) {
+            if (ni.isInteger()) {
+                queue.offer(ni.getInteger());
+            } else {
+                recursiveFlatten(ni.getList());
+            }
+        }
+    }
+
+    public NestedIterator(List<NestedInteger> nestedList) {
+        queue = new LinkedList<>();
+        recursiveFlatten(nestedList);
+        iterator = queue.iterator();
+    }
+
+    @Override
+    public Integer next() {
+        return iterator.next();
+    }
+
+    @Override
+    public boolean hasNext() {
+        return iterator.hasNext();
     }
 }
 
