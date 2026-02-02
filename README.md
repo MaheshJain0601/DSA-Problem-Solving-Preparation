@@ -32,6 +32,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
