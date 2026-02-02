@@ -547,6 +547,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0069-sqrtx](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
+| [0319-bulb-switcher](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -586,4 +587,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
