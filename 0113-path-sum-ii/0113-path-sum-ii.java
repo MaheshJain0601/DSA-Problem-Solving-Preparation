@@ -18,23 +18,27 @@ class Solution {
         if (node == null) return false;
         return node.left == null && node.right == null;
     }
+
     private void pathSumHelper(TreeNode root, int targetSum, int currSum, List<Integer> path, List<List<Integer>> allPaths) {
-        if (root == null) return;
+        if (root == null) {
+            return;
+        }
 
         currSum += root.val;
         path.add(root.val);
 
         if (isLeafNode(root)) {
             if (currSum == targetSum) {
-                allPaths.add(new LinkedList<>(path));
+                allPaths.add(new ArrayList<>(path));
             }
         }
-        
+
         pathSumHelper(root.left, targetSum, currSum, path, allPaths);
         pathSumHelper(root.right, targetSum, currSum, path, allPaths);
 
         path.remove(path.size() - 1);
     }
+
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> result = new LinkedList<>();
 
