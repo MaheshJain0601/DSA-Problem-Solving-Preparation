@@ -15,23 +15,21 @@
  */
 class Solution {
     private TreeNode addOneRowHelper(TreeNode root, int val, int depth, int currDepth) {
-        if (root == null) return root;
+        if (root == null) {
+            return root;
+        }
 
         if (currDepth == depth - 1) {
             TreeNode leftSubTreeTemp = root.left;
             TreeNode rightSubTreeTemp = root.right;
 
-            root.left = new TreeNode(val);
-            root.right = new TreeNode(val);
-
-            root.left.left = leftSubTreeTemp;
-            root.right.right = rightSubTreeTemp;
-            return root;
+            root.left = new TreeNode(val, leftSubTreeTemp, null);
+            root.right = new TreeNode(val, null, rightSubTreeTemp);
         }
 
         root.left = addOneRowHelper(root.left, val, depth, currDepth + 1);
         root.right = addOneRowHelper(root.right, val, depth, currDepth + 1);
-        
+
         return root;
     }
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
