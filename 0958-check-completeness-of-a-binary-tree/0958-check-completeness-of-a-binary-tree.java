@@ -15,7 +15,7 @@
  */
 class Solution {
     // BFS
-    public boolean isCompleteTree(TreeNode root) {
+    public boolean isCompleteTreeBFS(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
         boolean pastNull = false;
         TreeNode node;
@@ -47,21 +47,21 @@ class Solution {
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    private boolean isCompleteTreeHelperDFS(TreeNode root, int index, int totalNodes) {
+    private boolean isCompleteTreeHelper(TreeNode root, int totalNodes, int index) {
         if (root == null) {
             return true;
         }
-
         if (index >= totalNodes) {
             return false;
         }
-        return isCompleteTreeHelperDFS(root.left, 2*index + 1, totalNodes)
-            && isCompleteTreeHelperDFS(root.right, 2*index + 2, totalNodes);
+
+        return isCompleteTreeHelper(root.left, totalNodes, 2 * index + 1)
+            && isCompleteTreeHelper(root.right, totalNodes, 2 * index + 2);
     }
-    public boolean isCompleteTreeDFS(TreeNode root) {
+
+    public boolean isCompleteTree(TreeNode root) {
         int totalNodes = countNodes(root);
 
-        int index = 0;
-        return isCompleteTreeHelperDFS(root, index, totalNodes);
+        return isCompleteTreeHelper(root, totalNodes, 0);
     }
 }
