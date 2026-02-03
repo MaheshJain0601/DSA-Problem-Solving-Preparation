@@ -23,11 +23,10 @@ class Solution {
         }
         
         return 1 + simpleCountNodes(root.left) + simpleCountNodes(root.right);
-        
     }
-    
+
     // Since I halve the tree in every recursive step, I have O(log(n)) steps. Finding a height costs O(log(n)). 
-    //Time complexity: O(log(n)^2).
+    // Time complexity: O(log(n)^2).
     // Space Complexity: O(H)
     public int countNodes(TreeNode root) {
         if (root == null) {
