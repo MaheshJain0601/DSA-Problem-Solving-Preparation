@@ -312,6 +312,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -354,6 +355,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -396,6 +398,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
@@ -429,6 +432,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0104-maximum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
