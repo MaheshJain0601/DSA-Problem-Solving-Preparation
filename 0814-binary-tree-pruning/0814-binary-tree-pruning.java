@@ -21,7 +21,9 @@ class Solution {
 
         return isOnePresent(root.left) || isOnePresent(root.right);
     }
-    public TreeNode pruneTree(TreeNode root) {
+    // TC: O(N^2)
+    // SC: O(H)
+    public TreeNode pruneTreeAnotherSolution(TreeNode root) {
         if (root == null) {
             return root;
         }
@@ -32,10 +34,29 @@ class Solution {
         if (!isOnePresent(root.right)) {
             root.right = null;
         }
+
+        pruneTree(root.left);
+        pruneTree(root.right);
+
         if (root.left == null && root.right == null && root.val == 0) {
             return null;
         }
 
         return root; 
+    }
+
+    // TC: O(N)
+    // SC: O(H)
+    public TreeNode pruneTree(TreeNode root) {
+        if (root == null)
+            return root;
+        
+        root.left = pruneTree(root.left);
+        root.right = pruneTree(root.right);
+        
+        if (root.left == null && root.right == null && root.val == 0)
+            return null;
+        
+        return root;
     }
 }
