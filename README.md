@@ -165,6 +165,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -321,6 +322,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
@@ -366,6 +368,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
@@ -445,6 +448,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -555,6 +559,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 ## Doubly-Linked List
 |  |
 | ------- |
