@@ -14,27 +14,28 @@
  * }
  */
 class Solution {
-    private void inOrderTraversal(TreeNode root, StringBuilder sb) {
+    private boolean isLeafNode(TreeNode node) {
+        return node.left == null && node.right == null;
+    }
+    private void preOrderTraversal(TreeNode root, StringBuilder sb) {
         if (root == null) {
             return;
         }
         
-        if (root.left == null && root.right == null) {
+        if (isLeafNode(root)) {
             sb.append(root.val + "|");
             return;
         }
         
-        inOrderTraversal(root.left, sb);
-        inOrderTraversal(root.right, sb);
+        preOrderTraversal(root.left, sb);
+        preOrderTraversal(root.right, sb);
     }
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
         StringBuilder sb1 = new StringBuilder();
-        inOrderTraversal(root1, sb1);
+        preOrderTraversal(root1, sb1);
         
         StringBuilder sb2 = new StringBuilder();
-        inOrderTraversal(root2, sb2);
-        // System.out.println("s1: " + sb1.toString());
-        // System.out.println("s2: " + sb2.toString());
+        preOrderTraversal(root2, sb2);
         return (sb1.toString().equals(sb2.toString()));
     }
 }
