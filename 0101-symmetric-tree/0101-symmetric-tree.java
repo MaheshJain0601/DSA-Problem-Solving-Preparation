@@ -14,17 +14,21 @@
  * }
  */
 class Solution {
-    private boolean isSymmetricHelper(TreeNode root1, TreeNode root2) {
+    private boolean isLeafNode(TreeNode root) {
+        return root.left == null && root.right == null;
+    }
+    
+    public boolean isSymmetricHelper(TreeNode root1, TreeNode root2) {
         if (root1 == null || root2 == null) {
             return root1 == root2;
         }
-
-        return root1.val == root2.val &&
-            isSymmetricHelper(root1.left, root2.right) &&
-            isSymmetricHelper(root1.right, root2.left);
+        return (root1.val == root2.val)
+            && isSymmetricHelper(root1.left, root2.right)
+            && isSymmetricHelper(root1.right, root2.left);
     }
+    
     public boolean isSymmetric(TreeNode root) {
-        if (root == null) {
+        if (root == null || isLeafNode(root)) {
             return true;
         }
         return isSymmetricHelper(root.left, root.right);
