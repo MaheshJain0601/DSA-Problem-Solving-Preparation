@@ -14,12 +14,16 @@
  * }
  */
 class Solution {
+    private boolean isLeafNode(TreeNode root) {
+        return root.left == null && root.right == null;
+    }
+
     public int minDepthDFS(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
-        if (root.left == null && root.right == null) {
+        if (isLeafNode(root)) {
             return 1;
         }
 
@@ -45,7 +49,7 @@ class Solution {
             while (size > 0) {
                 TreeNode node = queue.poll();
 
-                if (node.left == null && node.right == null) {
+                if (isLeafNode(node)) {
                     return depth;
                 }
                 
