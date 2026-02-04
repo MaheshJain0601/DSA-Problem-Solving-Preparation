@@ -18,7 +18,6 @@ class Solution {
         if (root == null) {
             return "N";
         }
-
         String leftSubtree = findDuplicateSubtreesHelper(root.left, hashMap, result);
         String rightSubtree = findDuplicateSubtreesHelper(root.right, hashMap, result);
 
@@ -28,6 +27,7 @@ class Solution {
         }
         hashMap.put(currentStructure, hashMap.getOrDefault(currentStructure, 0) + 1);
         
+
         return currentStructure;
     }
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
