@@ -332,6 +332,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -376,6 +377,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
@@ -451,6 +453,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
