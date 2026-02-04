@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    // Approach-1
+     // Approach-1
     private void longestZigZagHelper(TreeNode root, int steps, int[] maxPath, boolean goLeft) {
         if (root == null) return;
 
