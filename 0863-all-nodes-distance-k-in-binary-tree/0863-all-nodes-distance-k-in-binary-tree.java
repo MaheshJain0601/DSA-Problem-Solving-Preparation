@@ -9,15 +9,14 @@
  */
 class Solution {
     private void parentMapping(TreeNode root, Map<TreeNode, TreeNode> parentMap) {
-        if (root == null) {
-            return;
-        }
+        if (root == null) return;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
+        TreeNode node;
 
+        while (!queue.isEmpty()) {
+            node = queue.poll();
             if (node.left != null) {
                 queue.offer(node.left);
                 parentMap.put(node.left, node);
@@ -28,56 +27,60 @@ class Solution {
             }
         }
     }
-    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-        Map<TreeNode, TreeNode> parentMap = new HashMap<>();
-        parentMapping(root, parentMap);
-        List<Integer> result = new LinkedList<>();
-        if (root == null) {
-            return result;
-        }
-
-        nodesAtDistanceK(target, parentMap, result, k);
-
-        return result;
-    }
 
     private void nodesAtDistanceK(TreeNode target, Map<TreeNode, TreeNode> parentMap, List<Integer> result, int k) {
         if (target == null) return;
 
-        Map<TreeNode, Boolean> visited = new HashMap<>();
         Queue<TreeNode> queue = new LinkedList<>();
+        Map<TreeNode, Boolean> visited = new HashMap<>();
+        
         queue.offer(target);
         visited.put(target, true);
-        int currentDistance = 0;
+
+        TreeNode node;
+        int currDistance = 0, size;
 
         while (!queue.isEmpty()) {
-            if (currentDistance == k) break;
+            if (currDistance == k) {
+                break;
+            }
+            size = queue.size();
             
-            int levelSize = queue.size();
-            while (levelSize > 0) {
-                TreeNode node = queue.poll();
-
-                if (node.left != null && !visited.containsKey(node.left)) {
+            while (size > 0) {
+                node = queue.poll();
+                if (node.left != null && !visited.getOrDefault(node.left, false)) {
                     queue.offer(node.left);
                     visited.put(node.left, true);
                 }
-                if (node.right != null && !visited.containsKey(node.right)) {
+                if (node.right != null && !visited.getOrDefault(node.right, false)) {
                     queue.offer(node.right);
                     visited.put(node.right, true);
                 }
                 
-                TreeNode parentNode = parentMap.get(node);
-                if (parentNode != null && !visited.containsKey(parentNode)) {
+                TreeNode parentNode = parentMap.getOrDefault(node, null);
+                if (parentNode != null && !visited.getOrDefault(parentNode, false)) {
                     queue.offer(parentNode);
                     visited.put(parentNode, true);
                 }
-                levelSize--;
+                size--;
             }
-            currentDistance++;
+            currDistance++;
         }
 
-        while (!queue.isEmpty()) {
+        while(!queue.isEmpty()) {
             result.add(queue.poll().val);
         }
+
+    }
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
+        List<Integer> result = new LinkedList<>();
+        if (root == null) return result;
+        
+        Map<TreeNode, TreeNode> parentMap = new HashMap<>();
+        parentMapping(root, parentMap);
+
+        nodesAtDistanceK(target, parentMap, result, k);
+
+        return result;
     }
 }
