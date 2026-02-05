@@ -1,10 +1,11 @@
 class MinStack {
 
+
     Stack<Long> st;
     long minVal;
 
     public MinStack() {
-        st = new Stack<>();
+        st = new Stack<>();   
     }
     
     public void push(int val) {
@@ -14,7 +15,7 @@ class MinStack {
             return;
         }
         if (val > minVal) {
-            st.push(1L*val);
+            st.push(1L * val);
         } else {
             st.push(2L*val - minVal);
             minVal = val;
