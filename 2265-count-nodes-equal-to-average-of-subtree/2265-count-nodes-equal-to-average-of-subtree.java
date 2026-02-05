@@ -23,7 +23,7 @@ class Solution {
             this.numOfNodes = numOfNodes;   
         }
     }
-    
+
     private Pair countAvergaeOfSubtreeHelper(TreeNode root, int[] result) {
         if (root == null) {
             return null;
@@ -52,13 +52,10 @@ class Solution {
         
         return new Pair(totalSum, totalNodes);
     }
-    
+
     public int averageOfSubtree(TreeNode root) {
         int[] result = new int[1];
-        result[0] = 0;
-        
         countAvergaeOfSubtreeHelper(root, result);
-        
         return result[0];
     }
 }
