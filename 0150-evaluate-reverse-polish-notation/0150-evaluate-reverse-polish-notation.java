@@ -6,7 +6,7 @@ class Solution {
         operation.put("-", (a, b) -> (int)(a - b));
         operation.put("*", (a, b) -> (int)(a * b));
         operation.put("/", (a, b) -> (int)(a / b));
-        
+
         for (String token: tokens) {
             if (operation.containsKey(token)) {
                 Long operand2 = (long) operands.pop();
