@@ -14,10 +14,11 @@
  * }
  */
 class Solution {
+    // BFS
     public List<Integer> largestValuesBFS(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         if (root == null) return result;
-
+        
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
@@ -43,7 +44,7 @@ class Solution {
         return result;
     }
 
-    // DFS
+     // DFS
     private void dfs(TreeNode root, List<Integer> result, int currDepth) {
         if (root == null) return;
 
