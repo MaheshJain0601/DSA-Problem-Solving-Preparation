@@ -149,15 +149,7 @@ class Solution {
         }
         return minTime - 1;
     }
-    
-    public int amountOfTimeGraph(TreeNode root, int start) {
-        if (root == null) return 0;
-        Map<Integer, List<Integer>> adjList = new HashMap<>();
 
-        makeGraph(root, -1, adjList);
-
-        return getMinimumAmountOfTimeGraph(adjList, start);
-    }
 
     // One-pass solution: Very important
     private int solve(TreeNode root, int[] result, int start) {
@@ -177,6 +169,7 @@ class Solution {
             return Math.min(leftHeight, rightHeight) - 1;
         }
     }
+
     public int amountOfTime(TreeNode root, int start) {
         if (root == null) return 0;
         
