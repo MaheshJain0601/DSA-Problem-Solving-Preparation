@@ -23,7 +23,6 @@ class Solution {
         result.add(root.val);
         inOrderRecursive(root.right, result);
     }
-    
     private void inOrderIterative(TreeNode root, List<Integer> result) {
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
