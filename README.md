@@ -58,6 +58,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
+| [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -93,6 +94,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1110-delete-nodes-and-return-forest) |
+| [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -100,6 +102,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
@@ -268,6 +271,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0605-can-place-flowers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
