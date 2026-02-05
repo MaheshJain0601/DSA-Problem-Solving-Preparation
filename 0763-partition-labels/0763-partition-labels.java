@@ -8,21 +8,16 @@ class Solution {
             lastOcurrence[ch - 'a'] = Math.max(lastOcurrence[ch - 'a'], index);
         }
 
-        int i = 0, j, end;
         List<Integer> result = new ArrayList<>();
-        while (i < s.length()) {
-            ch = s.charAt(i);
-            end = lastOcurrence[ch - 'a'];
-            j = i;
-            while (j < end) {
-                ch = s.charAt(j);
-                end = Math.max(end, lastOcurrence[ch - 'a']);
-                j++;
-            }
-            result.add(j-i+1);
-            i = j + 1;
-        }
 
+        int start = 0, end = 0;
+        for (int index = 0; index < s.length(); ++index){
+            end = Math.max(end, lastOcurrence[s.charAt(index) - 'a']);
+            if (end == index){
+                result.add(end - start + 1);
+                start = end + 1;
+            }
+        }
         return result;
     }
 }
