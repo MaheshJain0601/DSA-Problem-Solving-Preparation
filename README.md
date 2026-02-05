@@ -23,6 +23,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0162-find-peak-element) |
@@ -246,6 +247,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
