@@ -1,8 +1,8 @@
 class Solution {
     public boolean validateBinaryTreeNodes(int n, int[] leftChild, int[] rightChild) {
-
         Map<Integer, Integer> childToParentMp = new HashMap<>();
         Map<Integer, List<Integer>> adjList = new HashMap<>();
+
         for (int node = 0; node < n; ++node) {
             int leftChildNode = leftChild[node];
             int rightChildNode = rightChild[node];
@@ -33,7 +33,7 @@ class Solution {
         if (root == -1) {
             return false;
         }
-
+        
         Queue<Integer> queue = new LinkedList<>();
         boolean[] visited = new boolean[n];
         int count = 1;
