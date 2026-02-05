@@ -19,13 +19,12 @@ class Solution {
             return;
         }
         
-        inOrder(root.left, result);
+        inOrderRecursive(root.left, result);
         result.add(root.val);
-        inOrder(root.right, result);
-        
+        inOrderRecursive(root.right, result);
     }
     
-    private void inOrder(TreeNode root, List<Integer> result) {
+    private void inOrderIterative(TreeNode root, List<Integer> result) {
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
         
@@ -43,7 +42,27 @@ class Solution {
     }
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        inOrder(root, result);
+
+        TreeNode curr = root;
+
+        while (curr != null) {
+            if (curr.left == null) {
+                result.add(curr.val);
+                curr = curr.right;
+            } else {
+                TreeNode leftChild = curr.left;
+
+                // Go to the right most child of the leftChild
+                while (leftChild.right != null) {
+                    leftChild = leftChild.right;
+                }
+
+                leftChild.right = curr;
+                TreeNode temp = curr;
+                curr = curr.left;
+                temp.left = null;
+            }
+        }
         return result;
     }
 }
