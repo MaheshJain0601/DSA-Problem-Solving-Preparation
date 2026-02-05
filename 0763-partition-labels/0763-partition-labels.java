@@ -5,7 +5,7 @@ class Solution {
         char ch;
         for (int index = 0; index < s.length(); ++index) {
             ch = s.charAt(index);
-            lastOcurrence[ch - 'a'] = Math.max(lastOcurrence[ch - 'a'], index);
+            lastOcurrence[ch - 'a'] = index;
         }
 
         List<Integer> result = new ArrayList<>();
