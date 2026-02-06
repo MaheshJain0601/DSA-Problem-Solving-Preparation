@@ -1,27 +1,24 @@
 class Solution {
-    // TC: O(log n)
     public double myPow(double x, int n) {
-        double answer = 1.0;
-        
-        long nn = n;
-        if (n < 0) {
-            nn = (-1) * (nn);
+        long N = n;
+        double ans = 1.0;
+        long m = 0;
+        if(N<0){
+            m = N;
+            N = N * -1;
         }
-        
-        while (nn > 0) {
-            if (nn % 2 == 0) {
+        while(N > 0){
+            if(N%2 == 1){
+                ans = ans * x;
+                N = N - 1;
+            }else{
+                N = N/2;
                 x = x * x;
-                nn = nn / 2;
-            } else {
-                answer = answer * x;
-                nn = nn - 1;
             }
         }
-        
-        if (n < 0) {
-            answer = (double)(1.0) / (double)answer;
+        if(m < 0){
+            ans = 1/ans;
         }
-        
-        return answer;
+        return ans;
     }
 }
