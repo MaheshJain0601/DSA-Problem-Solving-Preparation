@@ -590,6 +590,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
@@ -600,6 +601,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
 | [1106-parsing-a-boolean-expression](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1106-parsing-a-boolean-expression) |
 ## Divide and Conquer
