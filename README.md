@@ -53,6 +53,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -109,6 +110,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
+| [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -571,6 +573,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
@@ -597,6 +600,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
