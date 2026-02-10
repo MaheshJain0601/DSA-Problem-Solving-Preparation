@@ -36,6 +36,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0219-contains-duplicate-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0432-all-oone-data-structure](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
@@ -110,6 +112,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -600,6 +603,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 ## Doubly-Linked List
 |  |
