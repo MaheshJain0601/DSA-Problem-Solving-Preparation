@@ -76,6 +76,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -116,6 +117,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -608,6 +611,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
+| [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -681,4 +685,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
