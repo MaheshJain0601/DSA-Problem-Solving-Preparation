@@ -14,6 +14,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0074-search-a-2d-matrix) |
@@ -592,6 +593,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
