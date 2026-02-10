@@ -78,6 +78,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0974-subarray-sums-divisible-by-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -616,6 +619,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -655,4 +659,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
