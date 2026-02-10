@@ -182,6 +182,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0316-remove-duplicate-letters) |
@@ -261,6 +262,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
@@ -602,6 +604,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0051-n-queens](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
