@@ -1,15 +1,13 @@
 class Solution {
     public int longestBalanced(int[] nums) {
-        int N = nums.length;
-
         int maxBalanced = 0;
 
         Set<Integer> evenNumbers, oddNumbers;
 
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < nums.length; i++) {
             evenNumbers = new HashSet<>();
             oddNumbers = new HashSet<>();
-            for (int j = i; j < N; ++j) {
+            for (int j = i; j < nums.length; ++j) {
                 if (nums[j] % 2 == 0) {
                     evenNumbers.add(nums[j]);
                 } else {
