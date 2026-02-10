@@ -100,6 +100,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -645,4 +647,12 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0319-bulb-switcher) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
