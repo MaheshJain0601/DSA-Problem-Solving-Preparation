@@ -34,6 +34,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0219-contains-duplicate-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
@@ -92,6 +93,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
@@ -305,6 +307,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0173-binary-search-tree-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0341-flatten-nested-list-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0901-online-stock-span) |
@@ -629,6 +632,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0319-bulb-switcher) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -692,4 +696,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
