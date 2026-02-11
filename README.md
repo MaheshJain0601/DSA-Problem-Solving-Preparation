@@ -46,6 +46,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0739-daily-temperatures) |
@@ -142,6 +143,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0374-guess-number-higher-or-lower](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0907-koko-eating-bananas) |
@@ -166,6 +168,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0219-contains-duplicate-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -332,6 +335,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -543,6 +547,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -575,6 +580,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
+| [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
