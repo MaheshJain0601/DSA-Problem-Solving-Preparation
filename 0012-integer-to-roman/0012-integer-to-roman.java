@@ -4,17 +4,15 @@ class Solution {
     
     public String intToRoman(int num) {
         StringBuilder sb = new StringBuilder();
-        
-        for (int index = 0; index < 13; ++index) { 
-            int times = num / romanNumbers[index];
-            // System.out.println("num " + num + " times " + times);
-            while (times != 0) {
-                sb.append(romanSymbol[index]);  
+        int times = 0;
+        for (int index = 0; index < romanNumbers.length; ++index) {
+            times = num / romanNumbers[index];
+            while (times > 0) {
+                sb.append(romanSymbol[index]);
                 times--;
             }
             num = num % romanNumbers[index];
-        } 
-        
+        }
         return sb.toString();
     }
 }
