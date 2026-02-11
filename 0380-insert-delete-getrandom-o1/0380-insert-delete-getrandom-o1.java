@@ -1,55 +1,45 @@
-import java.util.ArrayList;
-import java.util.Map;
-import java.util.HashMap;
-import java.util.Random;
-
 class RandomizedSet {
-    
-    ArrayList<Integer> nums;
-    Map<Integer, Integer> map;
-    Random random;
+
+    List<Integer> list;
+    Map<Integer,Integer> map;
+    private Random random;
 
     public RandomizedSet() {
-        nums = new ArrayList<>();
+        list = new ArrayList<>();
         map = new HashMap<>();
-        random = new java.util.Random();
+        random = new Random();
     }
     
     public boolean insert(int val) {
         if (map.containsKey(val)) {
             return false;
         }
-        
-        int pos = nums.size();
-        map.put(val, pos);
-        nums.add(val);
-        
+        list.add(val);
+        map.put(val, list.size() - 1);
+
         return true;
     }
     
     public boolean remove(int val) {
-        if (!map.containsKey(val)) {
+        int valIndex = map.getOrDefault(val, -1);
+        if (valIndex == -1) {
             return false;
         }
-        
-        int index = map.get(val);
-        if (index < nums.size()-1) {
-            int lastElement = nums.get(nums.size()-1);
-            nums.set(index , lastElement);
-            map.put(lastElement, index);
-        }
-        nums.remove(nums.size()-1);
+        int temp = list.get(list.size() - 1);
+        list.set(valIndex, temp);
+        list.remove(list.size() - 1);
+        map.put(temp, valIndex);
         map.remove(val);
         return true;
     }
     
     public int getRandom() {
-        if (nums.size() <= 0) {
+        if (list.size() <= 0) {
             return -1;
         }
         
-        int index = random.nextInt(nums.size());
-        return nums.get(index);   
+        int randomIndex = random.nextInt(list.size());
+        return list.get(randomIndex);   
     }
 }
 
