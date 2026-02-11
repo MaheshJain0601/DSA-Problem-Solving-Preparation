@@ -93,6 +93,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -557,6 +558,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0432-all-oone-data-structure) |
 ## Iterator
 |  |
@@ -572,6 +574,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0763-partition-labels](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
