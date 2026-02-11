@@ -92,6 +92,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
@@ -189,6 +190,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
@@ -642,6 +644,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
