@@ -310,6 +310,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0605-can-place-flowers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -401,6 +402,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -453,6 +455,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -538,6 +541,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -551,6 +555,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0700-search-in-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -676,6 +681,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
