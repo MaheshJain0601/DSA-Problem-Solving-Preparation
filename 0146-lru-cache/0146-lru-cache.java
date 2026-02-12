@@ -8,28 +8,33 @@ class LRUCache {
         Node(int key, int val) {
             this.key = key;
             this.val = val;
+            prev = null;
+            next = null;
         }
     }
 
-    Node head = new Node(-1, -1);
-    Node tail = new Node(-1, -1);
-    int cap;
-    Map<Integer, Node> map = new HashMap<>();
+    Node head, tail;
+    Map<Integer, Node> lookup;
+    int capacity;
+
 
     public LRUCache(int capacity) {
-        cap = capacity;
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
         head.next = tail;
         tail.prev = head;
+        lookup = new HashMap<>();
+        this.capacity = capacity;
     }
 
-    private void addNode(Node node) {
-        Node temp = head.next;
+    private void insertAfter(Node node, Node newNode) {
+        Node temp = node.next;
 
-        node.next = temp;
-        node.prev = head;
+        newNode.next = temp;
+        newNode.prev = node;
 
-        head.next = node;
-        temp.prev = node;
+        node.next = newNode;
+        temp.prev = newNode;
     }
 
     private void deleteNode(Node node) {
@@ -39,34 +44,34 @@ class LRUCache {
         prev.next = next;
         next.prev = prev;
     }
+
     
     public int get(int key) {
-        if (!map.containsKey(key)) {
+        Node node = lookup.get(key);
+        if (node == null) {
             return -1;
         }
-
-        Node node = map.get(key);
         deleteNode(node);
-        addNode(node);
+        insertAfter(head, node);
+
         return node.val;
     }
     
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            Node node = map.get(key);
+        Node node = lookup.get(key);
+        if (node == null) {
+            if (lookup.size() == capacity) {
+                lookup.remove(tail.prev.key);
+                deleteNode(tail.prev);
+            }
+            node = new Node(key, value);
+            insertAfter(head, node);
+            lookup.put(key, node);
+        } else {
             node.val = value;
             deleteNode(node);
-            addNode(node);
-            return;
+            insertAfter(head, node);
         }
-        if (map.size() == cap) {
-            map.remove(tail.prev.key);
-            deleteNode(tail.prev);
-        }
-
-        Node newNode = new Node(key, value);
-        addNode(newNode);
-        map.put(key, newNode);
     }
 }
 
