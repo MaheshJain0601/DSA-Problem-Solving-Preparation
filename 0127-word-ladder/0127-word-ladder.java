@@ -22,9 +22,11 @@ class Solution {
             if (endWord.equals(currWord)) {
                 return moves;
             }
-
+            
+            char[] replacementCharArray = currWord.toCharArray();
+            char prevCh;
             for (int index = 0; index < currWord.length(); ++index) {
-                char[] replacementCharArray = currWord.toCharArray();
+                prevCh = replacementCharArray[index];
                 for (char ch = 'a'; ch <= 'z'; ++ch) {
                     replacementCharArray[index] = ch;
                     String newOption = new String(replacementCharArray);
@@ -33,6 +35,7 @@ class Solution {
                         lookup.remove(newOption);
                     }
                 }
+                replacementCharArray[index] = prevCh;
             }
         }
         return 0;
