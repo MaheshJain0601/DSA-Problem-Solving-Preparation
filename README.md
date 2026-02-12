@@ -19,6 +19,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0054-spiral-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
@@ -120,6 +121,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
@@ -627,6 +629,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
