@@ -1,43 +1,52 @@
 class Solution {
-    class Pair{
-        String first;
-        int second;
-        Pair(String first,int second){
-            this.first=first;
-            this.second=second;
-        }
-    }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> dict = new HashSet<>(wordList);
+
+        if(!dict.contains(endWord))
+          return 0;
         
-        Set<String> lookup = new HashSet<>(wordList);
+        //Bi-directional BFS approach
+        Set<String> beginSet = new HashSet<>();
+        beginSet.add(beginWord);
+        Set<String> endSet = new HashSet<>();
+        endSet.add(endWord);
 
-        Queue<Pair> queue = new LinkedList<>();
-        queue.offer(new Pair(beginWord, 1));
-        lookup.remove(beginWord);
+        return bidirectional_BFS(beginSet, endSet, dict, 1);
+    }
 
-        while (!queue.isEmpty()) {
-            String currWord = queue.peek().first;
-            int moves = queue.peek().second;
-            queue.poll();
-            if (endWord.equals(currWord)) {
-                return moves;
-            }
-            
-            char[] replacementCharArray = currWord.toCharArray();
-            char prevCh;
-            for (int index = 0; index < currWord.length(); ++index) {
-                prevCh = replacementCharArray[index];
-                for (char ch = 'a'; ch <= 'z'; ++ch) {
-                    replacementCharArray[index] = ch;
-                    String newOption = new String(replacementCharArray);
-                    if (lookup.contains(newOption)) {
-                        queue.offer(new Pair(newOption, moves + 1));
-                        lookup.remove(newOption);
+    private int bidirectional_BFS(Set<String> beginSet, Set<String> endSet, Set<String> dict, int level){
+        if(beginSet.isEmpty() || endSet.isEmpty())
+           return 0;
+        
+        if(beginSet.size()> endSet.size())
+          return bidirectional_BFS(endSet, beginSet, dict, level);
+        
+        Set<String> nextLevel = new HashSet<>();
+        for(String word: beginSet){
+            char[] wordArr = word.toCharArray();
+            for(int i=0;i<wordArr.length;i++){
+                char originalChar = wordArr[i];
+
+                for(char c = 'a'; c <= 'z'; c++){
+                    if(originalChar == c)
+                      continue;
+                    
+                    wordArr[i] = c;
+
+                    String newWord = String.valueOf(wordArr);
+
+                    if(endSet.contains(newWord))
+                      return level + 1;
+                    
+                    if(dict.contains(newWord)){
+                        nextLevel.add(newWord);
+                        dict.remove(newWord);
                     }
                 }
-                replacementCharArray[index] = prevCh;
+
+                wordArr[i] = originalChar;
             }
         }
-        return 0;
+        return bidirectional_BFS(nextLevel, endSet, dict, level+1);
     }
 }
