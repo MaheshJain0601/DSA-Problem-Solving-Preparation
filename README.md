@@ -386,6 +386,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
@@ -439,6 +440,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
@@ -525,6 +527,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0623-add-one-row-to-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0814-binary-tree-pruning) |
