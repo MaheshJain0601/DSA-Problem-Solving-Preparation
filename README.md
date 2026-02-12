@@ -24,6 +24,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0152-maximum-product-subarray) |
@@ -122,6 +123,7 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0980-unique-paths-iii) |
@@ -631,6 +633,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0051-n-queens](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
