@@ -77,6 +77,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
@@ -253,6 +254,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1441-build-an-array-with-stack-operations](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
@@ -273,6 +275,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0937-online-stock-span](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0962-maximum-width-ramp) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
