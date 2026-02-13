@@ -78,6 +78,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2227-sum-of-subarray-ranges](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2227-sum-of-subarray-ranges) |
@@ -165,6 +166,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1901-find-a-peak-element-ii) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
