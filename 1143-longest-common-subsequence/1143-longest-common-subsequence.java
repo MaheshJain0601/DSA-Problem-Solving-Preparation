@@ -1,6 +1,6 @@
 class Solution {
     // Brute Force:
-    // TC: O(2^N)
+    // TC: O(2^(N + M))
     public int longestCommonSubsequenceHelperBrute(String text1, String text2, int i, int j) {
         if (i >= text1.length() || j >= text2.length()) {
             return 0;
@@ -16,6 +16,9 @@ class Solution {
         return Math.max(exclude_i, exclude_j);
     }
 
+    // Top - down approach
+    // TC: O(N*M)
+    // SC: O(N*M)
     public int longestCommonSubsequenceHelper(String text1, String text2, int[][] dp, int i, int j) {
         if (i >= text1.length() || j >= text2.length()) {
             return 0;
@@ -35,7 +38,7 @@ class Solution {
         return dp[i][j] = Math.max(exclude_i, exclude_j);
     }
 
-    public int longestCommonSubsequence(String text1, String text2) {
+    public int longestCommonSubsequenceTopDown(String text1, String text2) {
         int N = text1.length();
         int M = text2.length();
         int[][] dp = new int[N][M];
@@ -44,5 +47,31 @@ class Solution {
         }
         
         return longestCommonSubsequenceHelper(text1, text2, dp, 0, 0);
+    }
+
+    // Bottom-up approach
+    public int longestCommonSubsequence(String text1, String text2) {
+        int N = text1.length();
+        int M = text2.length();
+        int[][] dp = new int[N+1][M+1];
+
+        for (int r = 0; r <= N; ++r) {
+            dp[r][0] = 0;
+        }
+
+        for (int c = 0; c <= M; ++c) {
+            dp[0][c] = 0;
+        }
+        
+        for (int r = 1; r <= N; r++) {
+            for (int c = 1; c <= M; ++c) {
+                if (text1.charAt(r-1) == text2.charAt(c - 1)) {
+                    dp[r][c] = 1 + dp[r-1][c-1];
+                } else {
+                    dp[r][c] = Math.max(dp[r-1][c], dp[r][c-1]);
+                }
+            }
+        }
+        return dp[N][M];
     }
 }
