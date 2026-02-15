@@ -212,6 +212,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0402-remove-k-digits](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -291,6 +292,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1143-longest-common-subsequence) |
