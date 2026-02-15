@@ -216,6 +216,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1106-parsing-a-boolean-expression) |
+| [1143-longest-common-subsequence](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -292,6 +293,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0410-split-array-largest-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0943-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
