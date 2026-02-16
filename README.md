@@ -436,6 +436,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0257-binary-tree-paths) |
@@ -484,6 +485,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0130-surrounded-regions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0513-find-bottom-left-tree-value) |
@@ -711,6 +713,7 @@ Backup of all the leetcode questions which I practise and solved.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0785-is-graph-bipartite) |
 | [1361-validate-binary-tree-nodes](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1361-validate-binary-tree-nodes) |
@@ -747,4 +750,8 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
