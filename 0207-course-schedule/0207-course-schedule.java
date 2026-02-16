@@ -13,7 +13,7 @@ class Solution {
     }
     // Topological Sort - BFS
     // Kahn's Algorithm
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinishBFS(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adjList = getAdjacencyList(numCourses, prerequisites);
 
         System.out.println(adjList);
@@ -48,5 +48,36 @@ class Solution {
         return counter == numCourses;
     }
 
-    
+    // Topological Sort - DFS Algorithm
+
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        List<List<Integer>> adjList = getAdjacencyList(numCourses, prerequisites);
+
+        boolean[] visited = new boolean[numCourses];
+        boolean[] recursivePathVisited = new boolean[numCourses];
+         for(int vertice = 0; vertice < numCourses; ++vertice){
+            if (!visited[vertice]) {
+                if(canFinishDFSHelper(adjList, visited, recursivePathVisited, vertice))
+                    return false;
+            }
+        }
+        return true;
+    }
+
+    private boolean canFinishDFSHelper(List<List<Integer>> adjList, boolean[] visited, boolean[] recursivePathVisited, int vertice) {
+        visited[vertice] = true;
+        recursivePathVisited[vertice] = true;
+        for (Integer adjNode: adjList.get(vertice)) {
+            if (!visited[adjNode]) {
+                if (canFinishDFSHelper(adjList, visited, recursivePathVisited, adjNode)) {
+                    return true;
+                } 
+            } else if (recursivePathVisited[adjNode]) {
+                return true;
+            }
+        }
+
+        recursivePathVisited[vertice] = false;
+        return false;
+    }
 }
