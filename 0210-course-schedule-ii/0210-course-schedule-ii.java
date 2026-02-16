@@ -22,11 +22,12 @@ class Solution {
         }
 
         int counter = 0;
-        List<Integer> topoSort = new ArrayList<>();
+        int[] result = new int[numCourses];
 
         while (!queue.isEmpty()) {
             Integer node = queue.poll();
-            topoSort.add(node);
+            result[counter] = node;
+            counter++;
 
             for (Integer adjNode: adjList.get(node)) {
                 indegree[adjNode]--;
@@ -36,13 +37,8 @@ class Solution {
             }
         }
 
-        if (topoSort.size() != numCourses) {
+        if (counter != numCourses) {
             return new int[]{};
-        }
-
-        int[] result = new int[numCourses];
-        for (int index = 0; index < numCourses; ++index) {
-            result[index] = topoSort.get(index);
         }
 
         return result;
