@@ -202,6 +202,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0020-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0127-word-ladder) |
@@ -287,6 +288,7 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0131-palindrome-partitioning) |
