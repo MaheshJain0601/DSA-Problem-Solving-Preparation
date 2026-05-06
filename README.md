@@ -595,6 +595,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0002-add-two-numbers](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
@@ -612,6 +613,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [0016-3sum-closest](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0658-find-k-closest-elements](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0658-find-k-closest-elements) |
