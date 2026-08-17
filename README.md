@@ -90,6 +90,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2305-fair-distribution-of-cookies](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2305-fair-distribution-of-cookies) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
