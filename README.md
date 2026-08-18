@@ -228,6 +228,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -591,6 +592,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -764,4 +766,8 @@ Backup of all the leetcode questions which I practise and solved.
 | ------- |
 | [0207-course-schedule](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0210-course-schedule-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
