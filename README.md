@@ -87,6 +87,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 | [3429-special-array-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3429-special-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -120,6 +121,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1386-cinema-seat-allocation](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1386-cinema-seat-allocation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3713-longest-balanced-substring-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3719-longest-balanced-subarray-i) |
@@ -591,6 +593,7 @@ Backup of all the leetcode questions which I practise and solved.
 | [1329-sort-the-matrix-diagonally](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/1329-sort-the-matrix-diagonally) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2751-robot-collisions) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3169-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
