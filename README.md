@@ -773,4 +773,8 @@ Backup of all the leetcode questions which I practise and solved.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/MaheshJain0601/DSA-Problem-Solving-Preparation/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
