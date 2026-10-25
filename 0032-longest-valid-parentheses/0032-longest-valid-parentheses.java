@@ -1,9 +1,9 @@
 class Solution {
     public int longestValidParentheses(String s) {
         int open = 0, close = 0;
-        int result = 0;
         char ch;
-        
+        int result = 0;
+
         // Left to Right Traversal
         for (int index = 0; index < s.length(); ++index) {
             ch = s.charAt(index);
@@ -29,8 +29,9 @@ class Solution {
                 result = Math.max(result, open + close);
             } else if (open > close) {
                 close = open = 0;
-            } // Do nothing in-case of close > open, as we are moving forward
+            } // Do nothing in-case of close > open, as we are moving backward
         }
+
         return result;
     }
 }
